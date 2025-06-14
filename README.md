@@ -22,17 +22,20 @@ Check out my personal website for more details about my research, publications, 
 
 ## 📊 Featured Projects
 
-### 1. [Bitcoin Price Prediction](https://github.com/mohammadi-hadi/BitcoinPricePrediction)
+### 1. [Cultural Moral Judgments with LLMs](https://github.com/mohammadi-hadi/cultural-moral-judgments-llms)
+Research on exploring cultural variations in moral judgments using Large Language Models. This project examines how LLMs capture culturally diverse moral values and compares their outputs with cross-cultural survey data.
+
+### 2. [Explainable Annotations Reliability](https://github.com/mohammadi-hadi/Explainable_Annotations_Reliability)
+Research project focusing on assessing annotator reliability in the context of model predictions and explanations, contributing to the field of explainable AI.
+
+### 3. [AT AI Developments] 🔒
+Private repository containing internal AI development projects and research at AT.
+
+### 4. [Bitcoin Price Prediction](https://github.com/mohammadi-hadi/BitcoinPricePrediction)
 Time series analysis and machine learning approach for Bitcoin price forecasting.
 
-### 2. [Credit Card Fraud Detection](https://github.com/mohammadi-hadi/CreditCard)
+### 5. [Credit Card Fraud Detection](https://github.com/mohammadi-hadi/CreditCard)
 An advanced fraud detection system using machine learning algorithms.
-
-### 3. [Recommendation System Using Autoencoders](https://github.com/mohammadi-hadi/Recommendation-System-Using-Autoencoders)
-Movie and music recommendation system powered by deep learning.
-
-### 4. [AI-Generated Text Detection](https://github.com/mohammadi-hadi/Automatic-Detection-of-AI-Generated-Texts)
-Automatic detection system for AI-generated texts using NLP techniques.
 
 ## 📫 Get in Touch
 - Website: [mohammadi-hadi.github.io](https://mohammadi-hadi.github.io/)
