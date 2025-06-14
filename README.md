@@ -22,20 +22,10 @@ Check out my personal website for more details about my research, publications, 
 
 ## 🚀 Featured Projects
 
-### 1. [Cultural Moral Judgments with LLMs](https://github.com/mohammadi-hadi/cultural-moral-judgments-with-llms)
-Research on exploring cultural variations in moral judgments using Large Language Models. This project examines how LLMs capture culturally diverse moral values and compares their outputs with cross-cultural survey data.
-
-### 2. [Explainable Annotations Reliability](https://github.com/mohammadi-hadi/explainable-annotations-reliability)
-Research project focusing on assessing annotator reliability in the context of model predictions and explanations, contributing to the field of explainable AI.
-
-### 3. [AT AI Tools](https://github.com/leukeleu/at-ai-tools) 🔒
-Private repository containing internal AI development projects and research at AT.
-
-### 4. [Bitcoin Price Prediction](https://github.com/mohammadi-hadi/bitcoin-price-prediction)
-Time series analysis and machine learning approach for Bitcoin price forecasting.
-
-### 5. [Credit Card Fraud Detection](https://github.com/mohammadi-hadi/CreditCard)
-An advanced fraud detection system using machine learning algorithms.
+- [Cultural Moral Judgments with LLMs](https://github.com/mohammadi-hadi/cultural-moral-judgments-with-llms) - Research on cultural moral judgments using Large Language Models
+- [Explainable Annotations Reliability](https://github.com/mohammadi-hadi/explainable-annotations-reliability) - Research on reliability of explainable annotations in NLP
+- [AT AI Developments] 🔒 - Private repository containing internal AI development projects and research at AT
+- [AT AI Tools] 🔒 - AI development tools and utilities at Leukeleu B.V.
 
 ## 📫 Get in Touch
 - Website: [mohammadi-hadi.github.io](https://mohammadi-hadi.github.io/)
