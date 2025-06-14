@@ -1,18 +1,19 @@
 # Hadi Mohammadi
-## Data Scientist & ML Engineer | NLP Developer
+## Researcher at Utrecht University | LLM Explainability Expert
 
 [![Website](https://img.shields.io/badge/Website-Visit-green)](https://mohammadi-hadi.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/hadimohammadi)
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mohammadi-hadi/)
+[![Utrecht University](https://img.shields.io/badge/Utrecht_University-Profile-blue)](https://www.uu.nl/staff/HMohammadi)
 
 ## 👨‍💻 About Me
-I am a passionate Data Scientist and Machine Learning Engineer with expertise in Natural Language Processing (NLP). My work focuses on developing innovative solutions using cutting-edge AI technologies.
+I am a researcher at Utrecht University, focusing on explainability for large language models. My work combines expertise in Natural Language Processing (NLP), Machine Learning, and AI to develop innovative solutions for making AI systems more transparent and interpretable.
 
 ## 🌐 Visit My Website
-Check out my personal website for more details about my work, publications, and projects:
+Check out my personal website for more details about my research, publications, and projects:
 [mohammadi-hadi.github.io](https://mohammadi-hadi.github.io/)
 
 ## 🚀 Skills
+- **Research Focus**: LLM Explainability, NLP, Machine Learning
 - **Programming Languages**: Python, R, SQL
 - **Machine Learning**: TensorFlow, PyTorch, Scikit-learn
 - **NLP**: Transformers, BERT, GPT, Text Classification
@@ -35,8 +36,8 @@ Automatic detection system for AI-generated texts using NLP techniques.
 
 ## 📫 Get in Touch
 - Website: [mohammadi-hadi.github.io](https://mohammadi-hadi.github.io/)
-- LinkedIn: [linkedin.com/in/hadimohammadi](https://www.linkedin.com/in/hadimohammadi)
-- Email: your.email@example.com
+- LinkedIn: [linkedin.com/in/mohammadi-hadi](https://www.linkedin.com/in/mohammadi-hadi/)
+- Utrecht University: [uu.nl/staff/HMohammadi](https://www.uu.nl/staff/HMohammadi)
 
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammadi-hadi&show_icons=true&theme=radical)
@@ -44,6 +45,8 @@ Automatic detection system for AI-generated texts using NLP techniques.
 ## 🏆 Achievements
 - Quickdraw Achievement
 - Pull Shark Achievement
+- Researcher at Utrecht University
+- Expert in LLM Explainability
 
 ---
 ⭐️ From [mohammadi-hadi](https://github.com/mohammadi-hadi) 
