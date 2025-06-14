@@ -20,18 +20,18 @@ Check out my personal website for more details about my research, publications, 
 - **Data Analysis**: Pandas, NumPy, Matplotlib, Seaborn
 - **Tools & Technologies**: Git, Docker, AWS, Google Cloud
 
-## 📊 Featured Projects
+## 🚀 Featured Projects
 
-### 1. [Cultural Moral Judgments with LLMs](https://github.com/mohammadi-hadi/cultural-moral-judgments-llms)
+### 1. [Cultural Moral Judgments with LLMs](https://github.com/mohammadi-hadi/cultural-moral-judgments-with-llms)
 Research on exploring cultural variations in moral judgments using Large Language Models. This project examines how LLMs capture culturally diverse moral values and compares their outputs with cross-cultural survey data.
 
-### 2. [Explainable Annotations Reliability](https://github.com/mohammadi-hadi/Explainable_Annotations_Reliability)
+### 2. [Explainable Annotations Reliability](https://github.com/mohammadi-hadi/explainable-annotations-reliability)
 Research project focusing on assessing annotator reliability in the context of model predictions and explanations, contributing to the field of explainable AI.
 
-### 3. [AT AI Developments] 🔒
+### 3. [AT AI Tools](https://github.com/leukeleu/at-ai-tools) 🔒
 Private repository containing internal AI development projects and research at AT.
 
-### 4. [Bitcoin Price Prediction](https://github.com/mohammadi-hadi/BitcoinPricePrediction)
+### 4. [Bitcoin Price Prediction](https://github.com/mohammadi-hadi/bitcoin-price-prediction)
 Time series analysis and machine learning approach for Bitcoin price forecasting.
 
 ### 5. [Credit Card Fraud Detection](https://github.com/mohammadi-hadi/CreditCard)
