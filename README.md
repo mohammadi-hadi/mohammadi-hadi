@@ -1,9 +1,10 @@
 # Hadi Mohammadi
 ## GenAI & LLMs Specialist @AT | PhD in Explainable NLP @UU
 
-[![Website](https://img.shields.io/badge/Website-Visit-green)](https://mohammadi-hadi.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mohammadi-hadi/)
-[![Utrecht University](https://img.shields.io/badge/Utrecht_University-Profile-blue)](https://www.uu.nl/staff/HMohammadi)
+<br>
+<img alt="hardwork" src="https://github.com/mohammadi-hadi/.github/blob/3cdbaab46980b359d836e83574d8f9bc7c53bb1c/assets/hardwork.gif" width="500" align="center"/>
+<br>
+
 
 ## 👨‍💻 About Me
 I am a GenAI & LLMs Specialist at AT and a PhD researcher at Utrecht University, focusing on Explainable NLP. My work combines expertise in Generative AI, Large Language Models, and Natural Language Processing to develop innovative solutions for making AI systems more transparent and interpretable.
@@ -33,9 +34,15 @@ Check out my personal website for more details about my research, publications, 
 - Utrecht University: [uu.nl/staff/HMohammadi](https://www.uu.nl/staff/HMohammadi)
 
 ## 📈 GitHub Stats
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohammadi-hadi&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</div>
+</div> -->
+<p align="center">
+<a href="https://github.com/mohammadi-hadi">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mohammadi-hadi&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mohammadi-hadi&layout=compact&langs_count=8&theme=default"/>
+</a>
+</p>
 
 ## 🏆 Achievements
 - GenAI & LLMs Specialist at AT
@@ -44,4 +51,8 @@ Check out my personal website for more details about my research, publications, 
 - Pull Shark Achievement
 
 ---
-⭐️ From [mohammadi-hadi](https://github.com/mohammadi-hadi) 
+<!-- ⭐️ From [mohammadi-hadi](https://github.com/mohammadi-hadi)  -->
+
+[![Website](https://img.shields.io/badge/Website-Visit-green)](https://mohammadi-hadi.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mohammadi-hadi/)
+[![Utrecht University](https://img.shields.io/badge/Utrecht_University-Profile-blue)](https://www.uu.nl/staff/HMohammadi)
