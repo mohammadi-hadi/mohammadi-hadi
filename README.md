@@ -1,19 +1,19 @@
 # Hadi Mohammadi
-## Researcher at Utrecht University | LLM Explainability Expert
+## GenAI & LLMs Specialist @AT | PhD in Explainable NLP @UU
 
 [![Website](https://img.shields.io/badge/Website-Visit-green)](https://mohammadi-hadi.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mohammadi-hadi/)
 [![Utrecht University](https://img.shields.io/badge/Utrecht_University-Profile-blue)](https://www.uu.nl/staff/HMohammadi)
 
 ## 👨‍💻 About Me
-I am a researcher at Utrecht University, focusing on explainability for large language models. My work combines expertise in Natural Language Processing (NLP), Machine Learning, and AI to develop innovative solutions for making AI systems more transparent and interpretable.
+I am a GenAI & LLMs Specialist at AT and a PhD researcher at Utrecht University, focusing on Explainable NLP. My work combines expertise in Generative AI, Large Language Models, and Natural Language Processing to develop innovative solutions for making AI systems more transparent and interpretable.
 
 ## 🌐 Visit My Website
 Check out my personal website for more details about my research, publications, and projects:
 [mohammadi-hadi.github.io](https://mohammadi-hadi.github.io/)
 
 ## 🚀 Skills
-- **Research Focus**: LLM Explainability, NLP, Machine Learning
+- **Research Focus**: Explainable NLP, Generative AI, Large Language Models
 - **Programming Languages**: Python, R, SQL
 - **Machine Learning**: TensorFlow, PyTorch, Scikit-learn
 - **NLP**: Transformers, BERT, GPT, Text Classification
@@ -43,10 +43,10 @@ Automatic detection system for AI-generated texts using NLP techniques.
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammadi-hadi&show_icons=true&theme=radical)
 
 ## 🏆 Achievements
+- GenAI & LLMs Specialist at AT
+- PhD Researcher in Explainable NLP at Utrecht University
 - Quickdraw Achievement
 - Pull Shark Achievement
-- Researcher at Utrecht University
-- Expert in LLM Explainability
 
 ---
 ⭐️ From [mohammadi-hadi](https://github.com/mohammadi-hadi) 
