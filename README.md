@@ -43,7 +43,16 @@ An advanced fraud detection system using machine learning algorithms.
 - Utrecht University: [uu.nl/staff/HMohammadi](https://www.uu.nl/staff/HMohammadi)
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammadi-hadi&show_icons=true&theme=radical)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammadi-hadi&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadi-hadi&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadi-hadi&theme=radical&hide_border=true&layout=compact&langs_count=6" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mohammadi-hadi&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+</div>
 
 ## 🏆 Achievements
 - GenAI & LLMs Specialist at AT
