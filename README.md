@@ -23,7 +23,7 @@ Check out my personal website for more details about my research, publications, 
 ## 🚀 Featured Projects
 
 - [Cultural Moral Judgments with LLMs](https://github.com/mohammadi-hadi/cultural-moral-judgments-with-llms) - Research on cultural moral judgments using Large Language Models
-- [Explainable Annotations Reliability](https://github.com/mohammadi-hadi/explainable-annotations-reliability) - Research on reliability of explainable annotations in NLP
+- [Explainable Annotations Reliability](https://github.com/mohammadi-hadi/Explainable_Annotations_Reliability) - Research on reliability of explainable annotations in NLP
 - [AT AI Developments] 🔒 - Private repository containing internal AI development projects and research at AT
 - [AT AI Tools] 🔒 - AI development tools and utilities at Leukeleu B.V.
 
