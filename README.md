@@ -23,7 +23,7 @@ Check out my personal website for more details about my research, publications, 
 
 ## 🚀 Featured Projects
 
-- [Cultural Moral Judgments with LLMs](https://github.com/mohammadi-hadi/cultural-moral-judgments-with-llms) - Research on cultural moral judgments using Large Language Models
+- [Cultural Moral Judgments with LLMs](https://github.com/mohammadi-hadi/cultural-moral-judgments-llms) - Research on cultural moral judgments using Large Language Models
 - [Explainable Annotations Reliability](https://github.com/mohammadi-hadi/Explainable_Annotations_Reliability) - Research on reliability of explainable annotations in NLP
 - [FBB Sustainability Analysis command line interface](https://github.com/Firmbackbone/fbb-sustainability-analysis-cli) - FIRMBACKBONE project
 - [AT AI Developments] 🔒 - Private repository containing internal AI development projects and research at AT
