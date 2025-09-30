@@ -1,10 +1,6 @@
 # Hadi Mohammadi
 ## GenAI & LLMs Specialist @AT | PhD in Explainable NLP @UU
 
-<br>
-<img alt="hardwork" src="https://github.com/mohammadi-hadi/.github/blob/3cdbaab46980b359d836e83574d8f9bc7c53bb1c/assets/hardwork.gif" width="500" align="center"/>
-<br>
-
 
 ## 👨‍💻 About Me
 I am a GenAI & LLMs Specialist at AT and a PhD researcher at Utrecht University, focusing on Explainable NLP. My work combines expertise in Generative AI, Large Language Models, and Natural Language Processing to develop innovative solutions for making AI systems more transparent and interpretable.
