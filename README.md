@@ -1,5 +1,5 @@
 # Hadi Mohammadi
-## GenAI & LLMs Specialist @AT | PhD in Explainable NLP @UU
+## AI & Data Science Expert
 
 
 ## 👨‍💻 About Me
