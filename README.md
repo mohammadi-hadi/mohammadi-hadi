@@ -1,5 +1,5 @@
-# Hadi Mohammadi 🏆
-## AI & Data Science Expert 🤖
+# Hadi Mohammadi 
+## AI & Data Science Expert 
 
 
 ## 👨‍💻 About Me
@@ -42,7 +42,7 @@ Check out my personal website for more details about my research, publications, 
 </p>
 
 ## 🏆 Achievements
-- GenAI & LLMs Specialist at AT
+- AI & Data Science Expert at AcademicTransfer
 - PhD Researcher in Explainable NLP at Utrecht University
 - Quickdraw Achievement
 - Pull Shark Achievement
