@@ -1,15 +1,15 @@
-# Hadi Mohammadi 🏆
+# Hadi Mohammadi 
 ## AI & Data Science Expert
 
 
-## 👨‍💻 About Me
+## About Me
 I am a GenAI & LLMs Specialist at AT and a PhD researcher at Utrecht University, focusing on Explainable NLP. My work combines expertise in Generative AI, Large Language Models, and Natural Language Processing to develop innovative solutions for making AI systems more transparent and interpretable.
 
 ## 🌐 Visit My Website
 Check out my personal website for more details about my research, publications, and projects:
 [mohammadi-hadi.github.io](https://mohammadi-hadi.github.io/)
 
-## 🚀 Skills
+## Skills
 - **Research Focus**: Explainable NLP, Generative AI, Large Language Models
 - **Programming Languages**: Python, R, SQL
 - **Machine Learning**: TensorFlow, PyTorch, Scikit-learn
@@ -17,7 +17,7 @@ Check out my personal website for more details about my research, publications, 
 - **Data Analysis**: Pandas, NumPy, Matplotlib, Seaborn
 - **Tools & Technologies**: Git, Docker, AWS, Google Cloud
 
-## 🚀 Featured Projects
+## Featured Projects
 
 - [Cultural Moral Judgments with LLMs](https://github.com/mohammadi-hadi/cultural-moral-judgments-llms) - Research on cultural moral judgments using Large Language Models
 - [Explainable Annotations Reliability](https://github.com/mohammadi-hadi/Explainable_Annotations_Reliability) - Research on reliability of explainable annotations in NLP
