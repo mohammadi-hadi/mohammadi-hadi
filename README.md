@@ -3,7 +3,7 @@
 
 
 ## About Me
-I am a GenAI & LLMs Specialist at AT and a PhD researcher at Utrecht University, focusing on Explainable NLP. My work combines expertise in Generative AI, Large Language Models, and Natural Language Processing to develop innovative solutions for making AI systems more transparent and interpretable.
+I am an AI & Data Science Expert at AcademicTransfer and a PhD researcher at Utrecht University, focusing on Explainable NLP. My work combines expertise in Generative AI, Large Language Models, and Natural Language Processing to develop innovative solutions for making AI systems more transparent and interpretable.
 
 ## 🌐 Visit My Website
 Check out my personal website for more details about my research, publications, and projects:
