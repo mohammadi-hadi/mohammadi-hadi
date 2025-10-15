@@ -1,5 +1,5 @@
 # Hadi Mohammadi 
-## AI & Data Science Expert
+## AI & Data Science Expert | XAI Researcher
 
 
 ## About Me
