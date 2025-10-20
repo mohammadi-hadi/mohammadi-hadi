@@ -1,5 +1,5 @@
 # Hadi Mohammadi 
-## AI & Data Science Expert | XNLP Researcher
+## AI & Data Science Expert | AI Researcher
 
 
 ## About Me
