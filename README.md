@@ -1,77 +1,69 @@
-# Hadi Mohammadi
-## AI & Data Science Expert | AI Researcher
+# Hadi Mohammadi  
+## AI & Data Science Expert | AI Researcher  
 
 ---
 
-### 👋 About Me
-I am an **AI & Data Science Expert at AcademicTransfer** and a **PhD researcher at Utrecht University**, focusing on **Explainable NLP**.
-My work combines **Generative AI**, **Large Language Models**, and **NLP** to make AI systems more transparent and responsible.
+### 👋 About Me  
+I am an **AI & Data Science Expert at AcademicTransfer** and a **PhD researcher at Utrecht University**, focusing on **Explainable NLP**.  
+My work combines expertise in **Generative AI**, **Large Language Models**, and **Natural Language Processing** to develop innovative, interpretable, and responsible AI systems.
 
 ---
 
-### 🌐 Visit My Website
-For research, publications, and projects:
+### 🌐 Visit My Website  
+For more details about my **research, publications, and projects**, please visit:  
 [**mohammadi-hadi.github.io**](https://mohammadi-hadi.github.io/)
 
 ---
 
-### 🧠 Core Skills
-- **Research**: Explainable NLP, Generative AI, LLMs  
+### 🧠 Core Skills  
+- **Research Focus**: Explainable NLP, Generative AI, Large Language Models  
 - **Programming**: Python, R, SQL  
-- **ML**: TensorFlow, PyTorch, Scikit-learn  
+- **Machine Learning**: TensorFlow, PyTorch, Scikit-learn  
 - **NLP**: Transformers, BERT, GPT, Text Classification  
-- **Data**: Pandas, NumPy, Matplotlib, Seaborn  
-- **Dev**: Git, Docker, AWS, Google Cloud
+- **Data Analysis**: Pandas, NumPy, Matplotlib, Seaborn  
+- **Tools & Technologies**: Git, Docker, AWS, Google Cloud  
 
 ---
 
-### 🚀 Featured Projects
-- [**Cultural Moral Judgments with LLMs**](https://github.com/mohammadi-hadi/cultural-moral-judgments-llms) – Research on cultural moral judgments using LLMs  
-- [**Explainable Annotations Reliability**](https://github.com/mohammadi-hadi/Explainable_Annotations_Reliability) – Reliability of explainable annotations in NLP  
-- [**FBB Sustainability CLI**](https://github.com/Firmbackbone/fbb-sustainability-analysis-cli) – Command-line sustainability analysis (FIRMBACKBONE)  
-- 🔒 **AT AI Developments** – Private internal AI tools and research (AcademicTransfer)  
-- 🔒 **AT AI Tools** – Private utilities (Leukeleu B.V.)
+### 🚀 Featured Projects  
+- [**Cultural Moral Judgments with LLMs**](https://github.com/mohammadi-hadi/cultural-moral-judgments-llms) – Research on cultural moral judgments using Large Language Models  
+- [**Explainable Annotations Reliability**](https://github.com/mohammadi-hadi/Explainable_Annotations_Reliability) – Research on reliability of explainable annotations in NLP  
+- [**FBB Sustainability CLI**](https://github.com/Firmbackbone/fbb-sustainability-analysis-cli) – Command-line sustainability analysis tool for FIRMBACKBONE  
+- 🔒 **AT AI Developments** – Private repository for internal AI tools and research at AcademicTransfer  
+- 🔒 **AT AI Tools** – Private utilities and applications developed at Leukeleu B.V.  
 
 ---
 
-### 📊 Research & Development Activity (Privacy-Safe)
+### 📊 Research & Development Activity (Privacy-Safe)  
 
-> *My repositories are private due to confidentiality. The visualization below is an anonymized view of activity frequency (no repo names or code exposed).*
+> *My repositories are private due to confidentiality.  
+> The visualization below is an anonymized overview of my development activity across projects.*
 
-<!-- SVG heatmap via external generator (HTML-escaped & characters) -->
 <p align="center">
-  <img
-    alt="Activity Graph (Anonymized)"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=mohammadi-hadi&amp;theme=github-compact&amp;hide_border=true&amp;area=true&amp;custom_title=AI%20%26%20Research%20Activity%20Overview"
+  <img 
+    alt="Activity Graph (Private Contributions Hidden)" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=mohammadi-hadi&amp;theme=github-compact&amp;hide_border=true&amp;area=true&amp;custom_title=AI%20%26%20Research%20Activity%20Overview" 
   />
 </p>
 
-> **Summary:** Ongoing work across Explainable NLP, LLM evaluation, and AI tooling (2024–2025).  
-> Focus areas: model evaluation, dataset curation, experiment pipelines, and reporting.
-
-<!-- ——— Optional: Static fallback image (recommended for maximum robustness) ———
-If you prefer zero dependency on external SVGs (avoids XML parsing issues entirely),
-export a static PNG heatmap (e.g., generated monthly) to /assets/activity_heatmap.png and uncomment below.
-
-<p align="center">
-  <img alt="Commit Heatmap (Static)" src="assets/activity_heatmap.png" />
-</p>
--->
+> **Summary:** Consistent R&amp;D activity focused on Explainable NLP, LLM evaluation, and AI tool development (2024–2025).  
+> Emphasis on model evaluation, dataset curation, and research reproducibility.
 
 ---
 
-### 🏆 Highlights & Achievements
+### 🏆 Highlights & Achievements  
 - **Senior AI & Data Science Expert** — AcademicTransfer (from Jan 2026)  
 - **PhD Researcher** — Explainable NLP, Utrecht University  
-- **Contributions** — Generative AI & ethical AI evaluation  
-- 🦈 Pull Shark • ⚡ Quickdraw
+- **Contributions** — Generative AI & Ethical AI Evaluation  
+- 🦈 *Pull Shark Achievement*  
+- ⚡ *Quickdraw Achievement*  
 
 ---
 
-### 📫 Connect
-- 🌍 [Website](https://mohammadi-hadi.github.io/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/mohammadi-hadi/)
-- 🎓 [Utrecht University Profile](https://www.uu.nl/staff/HMohammadi)
+### 📫 Connect with Me  
+- 🌍 [Website](https://mohammadi-hadi.github.io/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/mohammadi-hadi/)  
+- 🎓 [Utrecht University Profile](https://www.uu.nl/staff/HMohammadi)  
 
 ---
 
@@ -89,4 +81,5 @@ export a static PNG heatmap (e.g., generated monthly) to /assets/activity_heatma
 
 ---
 
-> 🔒 Profile optimized for privacy: only anonymized activity frequency is shown. All proprietary code and data remain confidential.
+> 🔒 *Profile optimized for privacy — showing only anonymized and aggregated activity.  
+> All proprietary code and data remain confidential.*
