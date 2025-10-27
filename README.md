@@ -6,13 +6,11 @@ I work at **AcademicTransfer** building AI systems and conduct research at **Utr
 
 ---
 
-## 📊 GitHub Activity
+## 📊 Contribution Activity
 
 <div align="center">
 
-> Activity heatmap generated from private contributions (no repository details exposed)
-
-![Activity Metrics](./github-metrics.svg)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohammadi-hadi&theme=github-compact&hide_border=true&area=true)
 
 </div>
 
@@ -59,5 +57,5 @@ I work at **AcademicTransfer** building AI systems and conduct research at **Utr
 ---
 
 <div align="center">
-<sub>🔒 Privacy-first: Heatmap generated via GitHub Actions with private token. Shows commit trends without revealing repository details.</sub>
+<sub>🔒 Activity graph shows public contributions. Profile can be set to private in Settings.</sub>
 </div>
