@@ -10,11 +10,9 @@ I work at **AcademicTransfer** building AI systems and conduct research at **Utr
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammadi-hadi&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+> Activity heatmap generated from private contributions (no repository details exposed)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohammadi-hadi&theme=dark&hide_border=true)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohammadi-hadi&theme=github-compact&hide_border=true)
+![Activity Metrics](./github-metrics.svg)
 
 </div>
 
@@ -61,5 +59,5 @@ I work at **AcademicTransfer** building AI systems and conduct research at **Utr
 ---
 
 <div align="center">
-<sub>🔒 Privacy-conscious stats showing aggregated contributions without revealing private repository details.</sub>
+<sub>🔒 Privacy-first: Heatmap generated via GitHub Actions with private token. Shows commit trends without revealing repository details.</sub>
 </div>
