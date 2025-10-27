@@ -6,11 +6,15 @@ I work at **AcademicTransfer** building AI systems and conduct research at **Utr
 
 ---
 
-## 📊 Contribution Activity
+## 📊 GitHub Stats
 
 <div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohammadi-hadi&theme=github-compact&hide_border=true&area=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=mohammadi-hadi&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&hide=contribs)
+
+![Streak](https://streak-stats.demolab.com/?user=mohammadi-hadi&theme=transparent&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadi-hadi&layout=compact&theme=transparent&hide_border=true&langs_count=6)
 
 </div>
 
@@ -57,5 +61,5 @@ I work at **AcademicTransfer** building AI systems and conduct research at **Utr
 ---
 
 <div align="center">
-<sub>🔒 Activity graph shows public contributions. Profile can be set to private in Settings.</sub>
+<sub>📊 Stats include private contributions • Most work in private repos at AcademicTransfer</sub>
 </div>
