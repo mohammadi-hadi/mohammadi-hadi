@@ -6,20 +6,6 @@ I work at **AcademicTransfer** building AI systems and conduct research at **Utr
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=mohammadi-hadi&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&hide=contribs)
-
-![Streak](https://streak-stats.demolab.com/?user=mohammadi-hadi&theme=transparent&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadi-hadi&layout=compact&theme=transparent&hide_border=true&langs_count=6)
-
-</div>
-
----
-
 ## 🔬 Research & Work
 
 **PhD Research (Utrecht University)**
@@ -61,5 +47,5 @@ I work at **AcademicTransfer** building AI systems and conduct research at **Utr
 ---
 
 <div align="center">
-<sub>📊 Stats include private contributions • Most work in private repos at AcademicTransfer</sub>
+<sub>💼 Most work in private repos at AcademicTransfer • Research at Utrecht University</sub>
 </div>
