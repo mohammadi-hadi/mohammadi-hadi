@@ -1,4 +1,4 @@
-# Hi, I'm Hadi Mohammadi 👋
+# Hi, I'm Hadi 👋
 
 **AI & Data Science Expert** • **PhD Researcher in Explainable NLP**
 
