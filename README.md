@@ -11,7 +11,7 @@ Building production ML systems for high-stakes applications. 6+ years developing
 **Senior Data Science & AI Expert** @ [AcademicTransfer](https://corporate.academictransfer.com/) (Dec 2025 - Present)
 - Leading AI strategy for academic recruitment platform serving 10M+ users
 - Deployed active learning ranking systems with 17% match quality improvement
-- Built end-to-end ML pipelines processing 10,000+ applications monthly
+- Built end-to-end ML pipelines for large-scale recruitment platform
 - Reduced manual review by 50% through automated screening and classification
 
 ---
