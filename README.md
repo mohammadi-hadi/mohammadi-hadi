@@ -8,7 +8,8 @@ Building production ML systems for high-stakes applications. 6+ years developing
 
 ## Current Role
 
-**Senior Data Science & AI Expert** @ [AcademicTransfer](https://corporate.academictransfer.com/) (Dec 2025 - Present)
+**Senior Data Science & AI Expert** @ [AcademicTransfer](https://corporate.academictransfer.com/) (Jan 2023 - Present)
+*Promoted to Senior in Dec 2025*
 - Leading AI strategy for academic recruitment platform serving 10M+ users
 - Deployed active learning ranking systems with 17% match quality improvement
 - Built end-to-end ML pipelines for large-scale recruitment platform
