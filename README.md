@@ -1,8 +1,10 @@
 # Hadi Mohammadi
 
-**Senior Machine Learning Scientist** | **PhD in AI (NLP & Explainability)**
+**Senior Machine Learning Scientist** | **PhD in Explainable AI** (Utrecht University, 2025)
 
 Building production ML systems for high-stakes applications. 6+ years developing end-to-end pipelines for NLP, classification, ranking, and optimization at scale.
+
+**PhD Thesis**: *"From Tokens to Thoughts: Explainable NLP for Understanding Large Language Models"*
 
 ---
 
@@ -51,10 +53,12 @@ Focus areas:
 
 ## Featured Projects
 
-### Research
-- [**EvalMORAAL**](https://github.com/mohammadi-hadi/EvalMORAAL) — Evaluation framework for LLM moral alignment (55+ countries)
-- [**Cultural Moral Judgments**](https://github.com/mohammadi-hadi/cultural-moral-judgments-llms) — Cross-cultural AI reasoning with World Values Survey
-- [**Token-Replacement**](https://github.com/mohammadi-hadi/Token-Replacement) — Detection robustness analysis for AI-generated text
+### PhD Research (Thesis Chapters)
+- [**EvalMORAAL**](https://github.com/mohammadi-hadi/EvalMORAAL) — Novel LLM moral evaluation framework with Chain-of-Thought & peer review (Ch.8)
+- [**XNLP Technical Survey**](https://github.com/mohammadi-hadi/XNLP_technical_Survey) — Comprehensive 200+ paper survey on Explainable NLP (Ch.3)
+- [**Cultural Moral Judgments**](https://github.com/mohammadi-hadi/cultural-moral-judgments-llms) — Cross-cultural AI reasoning across 55+ countries (Ch.7)
+- [**Token-Replacement**](https://github.com/mohammadi-hadi/Token-Replacement) — Adversarial robustness analysis with explainability (Ch.5)
+- [**Publication Package**](https://github.com/mohammadi-hadi/Publication_package) — Complete PhD thesis materials and code
 
 ### Production
 - [**CV Priority Sorter**](https://github.com/mohammadi-hadi/AT-CV-Priority-Sorter) — Active learning system for candidate ranking and classification
