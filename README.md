@@ -2,6 +2,7 @@
 
 <p align="center">
   <strong>Machine Learning Scientist</strong> | <strong>PhD in Explainable AI</strong>
+</p>
 
 <p align="center">
   <a href="https://mohammadi.cv"><img src="https://img.shields.io/badge/Website-mohammadi.cv-blue?style=flat-square" alt="Website"/></a>
@@ -22,11 +23,7 @@ Building production ML systems for high-stakes applications. 6+ years developing
 
 Leading AI strategy for academic recruitment platform serving **10M+ users**
 
-| Impact | |
-|--------|--|
-| **+17%** | Match quality improvement via active learning ranking |
-| **-50%** | Manual review reduction through automated screening |
-| **10+** | Production ML models deployed |
+**Impact:** `+17%` match quality via active learning | `-50%` manual review through automation | `10+` production ML models
 
 ---
 
@@ -50,45 +47,45 @@ Leading AI strategy for academic recruitment platform serving **10M+ users**
 
 ## Tech Stack
 
-<table>
-<tr>
-<td><strong>ML/DL</strong></td>
-<td>PyTorch, TensorFlow, Transformers, scikit-learn, XGBoost, LightGBM</td>
-</tr>
-<tr>
-<td><strong>NLP</strong></td>
-<td>BERT, GPT, LLaMA, spaCy, Sentence-Transformers, LangChain</td>
-</tr>
-<tr>
-<td><strong>MLOps</strong></td>
-<td>MLflow, Azure ML, Weights & Biases, Docker, Kubernetes</td>
-</tr>
-<tr>
-<td><strong>Data</strong></td>
-<td>PySpark, Snowflake, PostgreSQL, FAISS, dbt</td>
-</tr>
-<tr>
-<td><strong>Web</strong></td>
-<td>FastAPI, Django, Flask, Streamlit</td>
-</tr>
-<tr>
-<td><strong>Cloud</strong></td>
-<td>Azure (ML, Functions, OpenAI), AWS, GCP</td>
-</tr>
-</table>
+**ML/DL:**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+**NLP:**
+![BERT](https://img.shields.io/badge/BERT-4285F4?style=flat-square)
+![GPT](https://img.shields.io/badge/GPT-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)
+
+**MLOps:**
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Azure ML](https://img.shields.io/badge/Azure_ML-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+
+**Data:**
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+
+**Web:**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 ---
 
 ## Publications
 
-| Year | Title | Venue | Links |
-|------|-------|-------|-------|
-| 2025 | LLM Annotation Reliability & Data Quality | ACL (GeBNLP) | [Paper](https://aclanthology.org/2025.gebnlp-1.9/) \| [arXiv](https://arxiv.org/abs/2507.13138) |
-| 2025 | Cultural Moral Judgments in LLMs | ECAI (LUHME) | [Paper](https://doi.org/10.3233/FAIA241173) \| [arXiv](https://arxiv.org/abs/2506.12433) |
-| 2025 | EvalMORAAL: LLM Evaluation Framework | ACL | [arXiv](https://arxiv.org/abs/2510.05942) |
-| 2024 | Transparent Sexism Detection Pipeline | Applied Sciences | [Paper](https://doi.org/10.3390/app14198620) |
-| 2024 | AI-Generated Text Detection | CLIN Journal | [Paper](https://clinjournal.org/clinj/article/view/182) |
-| 2023 | Multi-Model Detection for Online Sexism | CLEF | [Paper](https://ceur-ws.org/Vol-3497/paper-111.pdf) |
+- **2025** | LLM Annotation Reliability & Data Quality | ACL (GeBNLP) | [Paper](https://aclanthology.org/2025.gebnlp-1.9/) ・ [arXiv](https://arxiv.org/abs/2507.13138)
+- **2025** | Cultural Moral Judgments in LLMs | ECAI (LUHME) | [Paper](https://doi.org/10.3233/FAIA241173) ・ [arXiv](https://arxiv.org/abs/2506.12433)
+- **2025** | EvalMORAAL: LLM Evaluation Framework | ACL | [arXiv](https://arxiv.org/abs/2510.05942)
+- **2024** | Transparent Sexism Detection Pipeline | Applied Sciences | [Paper](https://doi.org/10.3390/app14198620)
+- **2024** | AI-Generated Text Detection | CLIN Journal | [Paper](https://clinjournal.org/clinj/article/view/182)
+- **2023** | Multi-Model Detection for Online Sexism | CLEF | [Paper](https://ceur-ws.org/Vol-3497/paper-111.pdf)
 
 [Full Publications →](https://mohammadi.cv/Publications.html)
 
@@ -98,7 +95,7 @@ Leading AI strategy for academic recruitment platform serving **10M+ users**
 
 <p align="center">
   <a href="https://github.com/mohammadi-hadi/Publication_package">
-    <img src="assets/thesis_cover_front.jpg" alt="From Tokens to Thoughts: Explainable NLP for Understanding Large Language Models" width="300"/>
+    <img src="assets/thesis_cover_front.jpg" alt="From Tokens to Thoughts" width="280"/>
   </a>
 </p>
 
@@ -107,17 +104,14 @@ Leading AI strategy for academic recruitment platform serving **10M+ users**
   <br/><em>Utrecht University, 2025</em>
 </p>
 
-### Open Source Research
+**Open Source Research:**
+- [**EvalMORAAL**](https://github.com/mohammadi-hadi/EvalMORAAL) — LLM moral evaluation with Chain-of-Thought & peer review
+- [**XNLP Technical Survey**](https://github.com/mohammadi-hadi/XNLP_technical_Survey) — 200+ paper survey on Explainable NLP
+- [**Cultural Moral Judgments**](https://github.com/mohammadi-hadi/cultural-moral-judgments-llms) — Cross-cultural AI reasoning across 55+ countries
+- [**Token-Replacement**](https://github.com/mohammadi-hadi/Token-Replacement) — Adversarial robustness with explainability
+- [**FBB Sustainability**](https://github.com/Firmbackbone/fbb-sustainability-analysis-cli) — NLP sustainability content analysis
 
-| Repository | Description |
-|------------|-------------|
-| [EvalMORAAL](https://github.com/mohammadi-hadi/EvalMORAAL) | LLM moral evaluation with Chain-of-Thought & peer review |
-| [XNLP Technical Survey](https://github.com/mohammadi-hadi/XNLP_technical_Survey) | 200+ paper survey on Explainable NLP |
-| [Cultural Moral Judgments](https://github.com/mohammadi-hadi/cultural-moral-judgments-llms) | Cross-cultural AI reasoning across 55+ countries |
-| [Token-Replacement](https://github.com/mohammadi-hadi/Token-Replacement) | Adversarial robustness with explainability |
-| [FBB Sustainability](https://github.com/Firmbackbone/fbb-sustainability-analysis-cli) | NLP sustainability content analysis |
-
-**Research Funding**: €45,500 in competitive grants (2023-2025)
+**Research Funding:** €45,500 in competitive grants (2023-2025)
 
 ---
 
