@@ -78,6 +78,23 @@ Leading AI strategy for academic recruitment platform serving **10M+ users**
 
 ---
 
+## PhD Thesis
+
+<p align="center">
+  <a href="https://github.com/mohammadi-hadi/Publication_package">
+    <img src="assets/thesis_cover_front.jpg" alt="From Tokens to Thoughts" width="280"/>
+  </a>
+</p>
+
+<p align="center">
+  <strong>From Tokens to Thoughts: Explainable NLP for Understanding Large Language Models</strong>
+  <br/><em>Utrecht University, 2025</em>
+</p>
+
+**Research Funding:** €45,500 in competitive grants (2023-2025)
+
+---
+
 ## Publications
 
 | Year | Title | Venue | Links |
@@ -93,27 +110,13 @@ Leading AI strategy for academic recruitment platform serving **10M+ users**
 
 ---
 
-## PhD Thesis
+## Open Source Research
 
-<p align="center">
-  <a href="https://github.com/mohammadi-hadi/Publication_package">
-    <img src="assets/thesis_cover_front.jpg" alt="From Tokens to Thoughts" width="280"/>
-  </a>
-</p>
-
-<p align="center">
-  <strong>From Tokens to Thoughts: Explainable NLP for Understanding Large Language Models</strong>
-  <br/><em>Utrecht University, 2025</em>
-</p>
-
-**Open Source Research:**
 - [**EvalMORAAL**](https://github.com/mohammadi-hadi/EvalMORAAL) — LLM moral evaluation with Chain-of-Thought & peer review
 - [**XNLP Technical Survey**](https://github.com/mohammadi-hadi/XNLP_technical_Survey) — 200+ paper survey on Explainable NLP
 - [**Cultural Moral Judgments**](https://github.com/mohammadi-hadi/cultural-moral-judgments-llms) — Cross-cultural AI reasoning across 55+ countries
 - [**Token-Replacement**](https://github.com/mohammadi-hadi/Token-Replacement) — Adversarial robustness with explainability
 - [**FBB Sustainability**](https://github.com/Firmbackbone/fbb-sustainability-analysis-cli) — NLP sustainability content analysis
-
-**Research Funding:** €45,500 in competitive grants (2023-2025)
 
 ---
 
