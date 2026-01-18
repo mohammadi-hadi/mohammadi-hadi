@@ -16,29 +16,32 @@ Building production ML systems for high-stakes applications. 6+ years developing
 
 ---
 
-## PhD Thesis
+## Industrial Projects
 
-<p align="center">
-  <a href="https://github.com/mohammadi-hadi/Publication_package">
-    <img src="assets/thesis_cover_front.jpg" alt="From Tokens to Thoughts: Explainable NLP for Understanding Large Language Models" width="350"/>
-  </a>
-</p>
+| Project | Description | ML/MLOps | Cloud/DevOps | App |
+|---------|-------------|----------|--------------|-----|
+| CV Priority Sorter | Active learning ranking system | scikit-learn, XGBoost, MLflow | Azure ML, Docker | Streamlit |
+| CV Matcher | Candidate-job matching engine | Transformers, BERT | Azure Functions | FastAPI |
+| Vacature Rewriter | LLM job posting optimizer | OpenAI API, LangChain | Azure | Streamlit |
+| AT Dashboard | Analytics & reporting platform | - | Snowflake, SQL | Django |
+| Concept Extractor | NLP keyword extraction | Transformers, spaCy | Docker | FastAPI |
+| AT CRM | Customer relationship system | - | Azure, SQL | Django |
+| E-Learning Platform | Training content delivery | - | Azure | Django |
+| ATS System | Applicant tracking system | scikit-learn | Docker, K8s | Flask |
+| AI Tools (Leukeleu) | ML utilities collection | PyTorch, Transformers | GitHub Actions | - |
 
-<p align="center">
-  <strong>From Tokens to Thoughts: Explainable NLP for Understanding Large Language Models</strong><br/>
-  <em>Utrecht University, 2025</em>
-</p>
+*Private repositories at AcademicTransfer and collaborations*
 
-Focus areas:
-- Detection and classification systems for harmful content (sexism, generated text)
-- Cultural fairness and moral alignment in LLMs across 55+ countries
-- Annotation reliability frameworks for improving data quality
-- Robust NLP systems against adversarial inputs
+---
 
-**MSc in Industrial Engineering** — University of Tehran
-*Reinforcement Learning for Dynamic Optimization*
+## Technical Expertise
 
-**Research Funding**: €45,500 in competitive grants (2023-2025)
+**ML/DL**: PyTorch, TensorFlow, Transformers, BERT, GPT, LLaMA, scikit-learn, XGBoost
+**MLOps**: Azure ML, MLflow, Docker, Kubernetes, CI/CD, GitHub Actions
+**Data & Scale**: PySpark, Spark, SQL, Hadoop, Snowflake, ETL pipelines
+**Methods**: Active Learning, Classification, NLP, Ranking, Reinforcement Learning, Optimization
+**App Frameworks**: FastAPI, Django, Flask, Streamlit
+**Languages**: Python, R, SQL
 
 ---
 
@@ -57,13 +60,18 @@ Focus areas:
 
 ---
 
-## Featured Projects
+## PhD Thesis
 
-### Production ML Systems (AcademicTransfer)
-- **CV Priority Sorter** — Active Learning + LLM system for CV prioritization combining GPT-4 reasoning with BERT embeddings. *Impact: 20% reduction in hiring time*
-- **CV Matcher** — Semantic matching using Sentence Transformers and vector search for job-candidate alignment. *Impact: 40% improved matching accuracy*
-- **Analytics Dashboard** — Real-time recruitment analytics with NL2SQL using Vanna AI for natural language queries. *Impact: Decision support for 50+ universities*
-- **Concept Extractor** — NER + LLM-based skill extraction from academic CVs with Knowledge Graphs
+<p align="center">
+  <a href="https://github.com/mohammadi-hadi/Publication_package">
+    <img src="assets/thesis_cover_front.jpg" alt="From Tokens to Thoughts: Explainable NLP for Understanding Large Language Models" width="350"/>
+  </a>
+</p>
+
+<p align="center">
+  <strong>From Tokens to Thoughts: Explainable NLP for Understanding Large Language Models</strong><br/>
+  <em>Utrecht University, 2025</em>
+</p>
 
 ### Open Source (PhD Research)
 - [**EvalMORAAL**](https://github.com/mohammadi-hadi/EvalMORAAL) — LLM moral evaluation framework with Chain-of-Thought & peer review
@@ -72,27 +80,13 @@ Focus areas:
 - [**Token-Replacement**](https://github.com/mohammadi-hadi/Token-Replacement) — Adversarial robustness analysis with explainability
 - [**FBB Sustainability**](https://github.com/Firmbackbone/fbb-sustainability-analysis-cli) — NLP-based sustainability content analysis
 
----
-
-## Technical Expertise
-
-**ML/DL**: PyTorch, TensorFlow, Transformers, BERT, GPT, LLaMA
-**Methods**: Active Learning, Classification, NLP, Reinforcement Learning, Optimization
-**Data & Scale**: PySpark, Spark, SQL, Hadoop, Snowflake, ETL pipelines
-**MLOps**: Azure ML, MLflow, Docker, Kubernetes, CI/CD
-**Languages**: Python, R, SQL
-
----
-
-## Background
-
-Cross-disciplinary expertise spanning Machine Learning, NLP, and Industrial Engineering (optimization). Research bridges academic innovation with production systems.
+**Research Funding**: €45,500 in competitive grants (2023-2025)
 
 ---
 
 ## Connect
 
-[![Website](https://img.shields.io/badge/Website-mohammadi--hadi.github.io-blue?style=flat-square)](https://mohammadi-hadi.github.io/)
+[![Website](https://img.shields.io/badge/Website-mohammadi.cv-blue?style=flat-square)](https://mohammadi.cv)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square)](https://www.linkedin.com/in/mohammadi-hadi/)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-4285F4?style=flat-square)](https://scholar.google.com/citations?user=w4Jt-FAAAAAJ)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--0860--9200-A6CE39?style=flat-square)](https://orcid.org/0000-0003-0860-9200)
