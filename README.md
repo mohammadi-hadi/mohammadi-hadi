@@ -2,9 +2,6 @@
 
 <p align="center">
   <strong>Machine Learning Scientist</strong> | <strong>PhD in Explainable AI</strong>
-  <br/>
-  <em>Utrecht University, 2025</em>
-</p>
 
 <p align="center">
   <a href="https://mohammadi.cv"><img src="https://img.shields.io/badge/Website-mohammadi.cv-blue?style=flat-square" alt="Website"/></a>
