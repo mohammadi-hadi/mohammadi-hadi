@@ -44,31 +44,30 @@ Focus areas:
 
 ## Publications
 
-| Year | Title | Venue |
-|------|-------|-------|
-| 2025 | LLM Annotation Reliability & Data Quality | ACL (GeBNLP Workshop) |
-| 2025 | Cultural Moral Judgments in LLMs | ECAI (LUHME Workshop) |
-| 2025 | EvalMORAAL: LLM Evaluation Framework | Under Review |
-| 2024 | Transparent Sexism Detection Pipeline | Applied Sciences |
-| 2024 | AI-Generated Text Detection | CLIN Journal |
-| 2023 | Multi-Model Detection for Online Sexism | CLEF Conference |
+| Year | Title | Venue | Links |
+|------|-------|-------|-------|
+| 2025 | LLM Annotation Reliability & Data Quality | ACL (GeBNLP) | [Paper](https://aclanthology.org/2025.gebnlp-1.9/) \| [arXiv](https://arxiv.org/abs/2507.13138) |
+| 2025 | Cultural Moral Judgments in LLMs | ECAI (LUHME) | [Paper](https://doi.org/10.3233/FAIA241173) \| [arXiv](https://arxiv.org/abs/2506.12433) |
+| 2025 | EvalMORAAL: LLM Evaluation Framework | ACL | [arXiv](https://arxiv.org/abs/2510.05942) |
+| 2024 | Transparent Sexism Detection Pipeline | Applied Sciences | [Paper](https://doi.org/10.3390/app14198620) |
+| 2024 | AI-Generated Text Detection | CLIN Journal | [Paper](https://clinjournal.org/clinj/article/view/182) |
+| 2023 | Multi-Model Detection for Online Sexism | CLEF | [Paper](https://ceur-ws.org/Vol-3497/paper-111.pdf) |
 
-[Full Publications →](https://mohammadi-hadi.github.io/Publications.html)
+[Full Publications →](https://mohammadi.cv/Publications.html)
 
 ---
 
 ## Featured Projects
 
-### PhD Research (Thesis Chapters)
-- [**EvalMORAAL**](https://github.com/mohammadi-hadi/EvalMORAAL) — Novel LLM moral evaluation framework with Chain-of-Thought & peer review (Ch.8)
-- [**XNLP Technical Survey**](https://github.com/mohammadi-hadi/XNLP_technical_Survey) — Comprehensive 200+ paper survey on Explainable NLP (Ch.3)
-- [**Cultural Moral Judgments**](https://github.com/mohammadi-hadi/cultural-moral-judgments-llms) — Cross-cultural AI reasoning across 55+ countries (Ch.7)
-- [**Token-Replacement**](https://github.com/mohammadi-hadi/Token-Replacement) — Adversarial robustness analysis with explainability (Ch.5)
-- [**Publication Package**](https://github.com/mohammadi-hadi/Publication_package) — Complete PhD thesis materials and code
+### Production ML Systems (AcademicTransfer)
+- **CV Priority Sorter** — Active Learning + LLM system for CV prioritization combining GPT-4 reasoning with BERT embeddings. *Impact: 20% reduction in hiring time*
+- **CV Matcher** — Semantic matching using Sentence Transformers and vector search for job-candidate alignment. *Impact: 40% improved matching accuracy*
+- **Analytics Dashboard** — Real-time recruitment analytics with NL2SQL using Vanna AI for natural language queries. *Impact: Decision support for 50+ universities*
+- **Concept Extractor** — NER + LLM-based skill extraction from academic CVs with Knowledge Graphs
 
-### Production
-- [**CV Priority Sorter**](https://github.com/mohammadi-hadi/AT-CV-Priority-Sorter) — Active learning system for candidate ranking and classification
-- [**FBB Sustainability**](https://github.com/Firmbackbone/fbb-sustainability-analysis-cli) — NLP-based sustainability content analysis
+### Open Source
+- [**FBB Sustainability**](https://github.com/Firmbackbone/fbb-sustainability-analysis-cli) — NLP-based sustainability content analysis (FIRMBACKBONE/Utrecht University)
+- [**Publication Package**](https://github.com/mohammadi-hadi/Publication_package) — Complete PhD thesis materials, code, and data
 
 ---
 
