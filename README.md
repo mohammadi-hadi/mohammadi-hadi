@@ -65,9 +65,12 @@ Focus areas:
 - **Analytics Dashboard** — Real-time recruitment analytics with NL2SQL using Vanna AI for natural language queries. *Impact: Decision support for 50+ universities*
 - **Concept Extractor** — NER + LLM-based skill extraction from academic CVs with Knowledge Graphs
 
-### Open Source
-- [**FBB Sustainability**](https://github.com/Firmbackbone/fbb-sustainability-analysis-cli) — NLP-based sustainability content analysis (FIRMBACKBONE/Utrecht University)
-- [**Publication Package**](https://github.com/mohammadi-hadi/Publication_package) — Complete PhD thesis materials, code, and data
+### Open Source (PhD Research)
+- [**EvalMORAAL**](https://github.com/mohammadi-hadi/EvalMORAAL) — LLM moral evaluation framework with Chain-of-Thought & peer review
+- [**XNLP Technical Survey**](https://github.com/mohammadi-hadi/XNLP_technical_Survey) — Comprehensive 200+ paper survey on Explainable NLP
+- [**Cultural Moral Judgments**](https://github.com/mohammadi-hadi/cultural-moral-judgments-llms) — Cross-cultural AI reasoning across 55+ countries
+- [**Token-Replacement**](https://github.com/mohammadi-hadi/Token-Replacement) — Adversarial robustness analysis with explainability
+- [**FBB Sustainability**](https://github.com/Firmbackbone/fbb-sustainability-analysis-cli) — NLP-based sustainability content analysis
 
 ---
 
