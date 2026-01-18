@@ -97,17 +97,17 @@ Leading AI strategy for academic recruitment platform serving **10M+ users**
 
 ## Publications & Open Source
 
-| Year | Title | Venue | Links | Code |
-|------|-------|-------|-------|------|
-| 2025 | LLM Annotation Reliability & Data Quality | ACL (GeBNLP) | [Paper](https://aclanthology.org/2025.gebnlp-1.9/) ・ [arXiv](https://arxiv.org/abs/2507.13138) | - |
-| 2025 | Cultural Moral Judgments in LLMs | ECAI (LUHME) | [Paper](https://doi.org/10.3233/FAIA241173) ・ [arXiv](https://arxiv.org/abs/2506.12433) | [Repo](https://github.com/mohammadi-hadi/cultural-moral-judgments-llms) |
-| 2025 | EvalMORAAL: LLM Evaluation Framework | ACL | [arXiv](https://arxiv.org/abs/2510.05942) | [Repo](https://github.com/mohammadi-hadi/EvalMORAAL) |
-| 2025 | XNLP Technical Survey (200+ papers) | Thesis Ch.3 | - | [Repo](https://github.com/mohammadi-hadi/XNLP_technical_Survey) |
-| 2024 | Transparent Sexism Detection Pipeline | Applied Sciences | [Paper](https://doi.org/10.3390/app14198620) | - |
-| 2024 | AI-Generated Text Detection | CLIN Journal | [Paper](https://clinjournal.org/clinj/article/view/182) | - |
-| 2024 | Token-Replacement Robustness Analysis | Thesis Ch.5 | - | [Repo](https://github.com/mohammadi-hadi/Token-Replacement) |
-| 2023 | Multi-Model Detection for Online Sexism | CLEF | [Paper](https://ceur-ws.org/Vol-3497/paper-111.pdf) | - |
-| 2023 | FBB Sustainability Analysis | Collaboration | - | [Repo](https://github.com/Firmbackbone/fbb-sustainability-analysis-cli) |
+| Title | Description | Venue | Links | Code |
+|-------|-------------|-------|-------|------|
+| LLM Annotation Reliability | Data quality assessment for LLM annotations | ACL GeBNLP 2025 | [Paper](https://aclanthology.org/2025.gebnlp-1.9/) ・ [arXiv](https://arxiv.org/abs/2507.13138) | - |
+| Cultural Moral Judgments | Cross-cultural moral reasoning in LLMs (55+ countries) | ECAI LUHME 2025 | [Paper](https://doi.org/10.3233/FAIA241173) ・ [arXiv](https://arxiv.org/abs/2506.12433) | [Repo](https://github.com/mohammadi-hadi/cultural-moral-judgments-llms) |
+| EvalMORAAL | LLM moral evaluation with CoT & peer review | ACL 2025 | [arXiv](https://arxiv.org/abs/2510.05942) | [Repo](https://github.com/mohammadi-hadi/EvalMORAAL) |
+| XNLP Technical Survey | Comprehensive 200+ paper survey on Explainable NLP | Thesis Ch.3 | - | [Repo](https://github.com/mohammadi-hadi/XNLP_technical_Survey) |
+| Sexism Detection Pipeline | Transparent multi-model detection system | Applied Sciences 2024 | [Paper](https://doi.org/10.3390/app14198620) | - |
+| AI-Generated Text Detection | Machine-generated content identification | CLIN Journal 2024 | [Paper](https://clinjournal.org/clinj/article/view/182) | - |
+| Token-Replacement Robustness | Adversarial robustness with explainability | Thesis Ch.5 | - | [Repo](https://github.com/mohammadi-hadi/Token-Replacement) |
+| Online Sexism Detection | Multi-model ensemble for CLEF shared task | CLEF 2023 | [Paper](https://ceur-ws.org/Vol-3497/paper-111.pdf) | - |
+| FBB Sustainability Analysis | NLP-based sustainability content extraction | Collaboration | - | [Repo](https://github.com/Firmbackbone/fbb-sustainability-analysis-cli) |
 
 [Full Publications →](https://mohammadi.cv/Publications.html)
 
