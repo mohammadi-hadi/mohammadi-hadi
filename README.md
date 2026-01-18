@@ -1,10 +1,8 @@
-# Hadi Mohammadi 
+# Hadi Mohammadi
 
 **Machine Learning Scientist** | **PhD in Explainable AI** (Utrecht University, 2025)
 
 Building production ML systems for high-stakes applications. 6+ years developing end-to-end pipelines for NLP, classification, ranking, and optimization at scale.
-
-**PhD Thesis**: *"From Tokens to Thoughts: Explainable NLP for Understanding Large Language Models"*
 
 ---
 
@@ -18,10 +16,18 @@ Building production ML systems for high-stakes applications. 6+ years developing
 
 ---
 
-## Research
+## PhD Thesis
 
-**PhD in AI** — Utrecht University (2025)
-*Explainable & Reliable NLP for High-Stakes Decision Systems*
+<p align="center">
+  <a href="https://github.com/mohammadi-hadi/Publication_package">
+    <img src="assets/thesis_cover_front.jpg" alt="From Tokens to Thoughts: Explainable NLP for Understanding Large Language Models" width="350"/>
+  </a>
+</p>
+
+<p align="center">
+  <strong>From Tokens to Thoughts: Explainable NLP for Understanding Large Language Models</strong><br/>
+  <em>Utrecht University, 2025</em>
+</p>
 
 Focus areas:
 - Detection and classification systems for harmful content (sexism, generated text)
