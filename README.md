@@ -1,4 +1,4 @@
-# Hadi Mohammadi
+# Hadi Mohammadi 
 
 **Senior Machine Learning Scientist** | **PhD in Explainable AI** (Utrecht University, 2025)
 
