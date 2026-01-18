@@ -80,12 +80,14 @@ Leading AI strategy for academic recruitment platform serving **10M+ users**
 
 ## Publications
 
-- **2025** | LLM Annotation Reliability & Data Quality | ACL (GeBNLP) | [Paper](https://aclanthology.org/2025.gebnlp-1.9/) ・ [arXiv](https://arxiv.org/abs/2507.13138)
-- **2025** | Cultural Moral Judgments in LLMs | ECAI (LUHME) | [Paper](https://doi.org/10.3233/FAIA241173) ・ [arXiv](https://arxiv.org/abs/2506.12433)
-- **2025** | EvalMORAAL: LLM Evaluation Framework | ACL | [arXiv](https://arxiv.org/abs/2510.05942)
-- **2024** | Transparent Sexism Detection Pipeline | Applied Sciences | [Paper](https://doi.org/10.3390/app14198620)
-- **2024** | AI-Generated Text Detection | CLIN Journal | [Paper](https://clinjournal.org/clinj/article/view/182)
-- **2023** | Multi-Model Detection for Online Sexism | CLEF | [Paper](https://ceur-ws.org/Vol-3497/paper-111.pdf)
+| Year | Title | Venue | Links |
+|------|-------|-------|-------|
+| 2025 | LLM Annotation Reliability & Data Quality | ACL (GeBNLP) | [Paper](https://aclanthology.org/2025.gebnlp-1.9/) ・ [arXiv](https://arxiv.org/abs/2507.13138) |
+| 2025 | Cultural Moral Judgments in LLMs | ECAI (LUHME) | [Paper](https://doi.org/10.3233/FAIA241173) ・ [arXiv](https://arxiv.org/abs/2506.12433) |
+| 2025 | EvalMORAAL: LLM Evaluation Framework | ACL | [arXiv](https://arxiv.org/abs/2510.05942) |
+| 2024 | Transparent Sexism Detection Pipeline | Applied Sciences | [Paper](https://doi.org/10.3390/app14198620) |
+| 2024 | AI-Generated Text Detection | CLIN Journal | [Paper](https://clinjournal.org/clinj/article/view/182) |
+| 2023 | Multi-Model Detection for Online Sexism | CLEF | [Paper](https://ceur-ws.org/Vol-3497/paper-111.pdf) |
 
 [Full Publications →](https://mohammadi.cv/Publications.html)
 
