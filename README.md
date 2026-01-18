@@ -1,6 +1,6 @@
 # Hadi Mohammadi 
 
-**Senior Machine Learning Scientist** | **PhD in Explainable AI** (Utrecht University, 2025)
+**Machine Learning Scientist** | **PhD in Explainable AI** (Utrecht University, 2025)
 
 Building production ML systems for high-stakes applications. 6+ years developing end-to-end pipelines for NLP, classification, ranking, and optimization at scale.
 
