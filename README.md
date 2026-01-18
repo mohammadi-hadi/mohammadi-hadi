@@ -32,75 +32,17 @@ Leading AI strategy for academic recruitment platform serving **10M+ users**
 
 ## Industrial Projects
 
-### CV Priority Sorter
-> Active learning ranking system for CV prioritization
-
-| Component | Technologies |
-|-----------|-------------|
-| **ML Pipeline** | Active Learning loop, XGBoost ranker, BERT embeddings, GPT-4 reasoning |
-| **Feature Engineering** | TF-IDF, Sentence-Transformers, custom CV parsers |
-| **MLOps** | MLflow experiment tracking, Azure ML pipelines, model versioning |
-| **Infrastructure** | Docker, Azure Container Registry, scheduled retraining |
-| **App** | Streamlit dashboard with explainability visualizations |
-
-### CV Matcher
-> Semantic candidate-job matching engine
-
-| Component | Technologies |
-|-----------|-------------|
-| **ML Pipeline** | Bi-encoder architecture, Sentence-BERT, cosine similarity ranking |
-| **Embeddings** | Fine-tuned Dutch BERT, domain-adapted job embeddings |
-| **Search** | FAISS vector index, approximate nearest neighbors |
-| **Infrastructure** | Azure Functions, serverless scaling |
-| **App** | FastAPI REST endpoints, batch processing |
-
-### Vacature Rewriter
-> LLM-powered job posting optimizer
-
-| Component | Technologies |
-|-----------|-------------|
-| **ML Pipeline** | GPT-4 prompt engineering, LangChain orchestration |
-| **NLP** | Inclusivity analysis, readability scoring, bias detection |
-| **Evaluation** | A/B testing framework, engagement metrics |
-| **Infrastructure** | Azure OpenAI Service, rate limiting, caching |
-| **App** | Streamlit interface with real-time suggestions |
-
-### Concept Extractor
-> NLP-based skill and keyword extraction
-
-| Component | Technologies |
-|-----------|-------------|
-| **ML Pipeline** | Named Entity Recognition, KeyBERT, custom taxonomy mapping |
-| **NLP** | spaCy pipelines, dependency parsing, noun phrase chunking |
-| **Knowledge Graph** | Skill ontology, hierarchical classification |
-| **Infrastructure** | Docker, REST API deployment |
-| **App** | FastAPI with async processing |
-
-### ATS System
-> Applicant tracking with ML-powered screening
-
-| Component | Technologies |
-|-----------|-------------|
-| **ML Pipeline** | Multi-label classification, scikit-learn ensemble methods |
-| **Features** | Text classification, structured data encoding |
-| **Infrastructure** | Docker, Kubernetes orchestration, PostgreSQL |
-| **App** | Flask web application |
-
-### AT Dashboard
-> Analytics and reporting platform with NL2SQL
-
-| Component | Technologies |
-|-----------|-------------|
-| **Data** | Snowflake warehouse, dbt transformations, SQL optimization |
-| **Analytics** | Vanna AI for natural language queries, custom metrics |
-| **App** | Django with interactive visualizations |
-
-### Additional Projects
-| Project | Description | Stack |
-|---------|-------------|-------|
-| AT CRM | Customer relationship management | Django, Azure SQL, REST APIs |
-| E-Learning Platform | Training content delivery | Django, Azure Blob Storage |
-| AI Tools (Leukeleu) | ML utilities collection | PyTorch, Transformers, GitHub Actions CI/CD |
+| Project | Description | ML/MLOps | Cloud/DevOps | App |
+|---------|-------------|----------|--------------|-----|
+| CV Priority Sorter | Active learning ranking system | XGBoost, BERT embeddings, GPT-4, Active Learning, MLflow | Azure ML, Docker, ACR | Streamlit |
+| CV Matcher | Semantic candidate-job matching | Sentence-BERT, Bi-encoder, FAISS, fine-tuned Dutch BERT | Azure Functions | FastAPI |
+| Vacature Rewriter | LLM job posting optimizer | GPT-4, LangChain, bias detection, A/B testing | Azure OpenAI | Streamlit |
+| AT Dashboard | Analytics & NL2SQL platform | Vanna AI, dbt transformations | Snowflake, SQL | Django |
+| Concept Extractor | NLP skill & keyword extraction | NER, KeyBERT, spaCy, skill ontology | Docker | FastAPI |
+| AT CRM | Customer relationship system | - | Azure, SQL | Django |
+| E-Learning Platform | Training content delivery | - | Azure Blob | Django |
+| ATS System | Applicant tracking & screening | Multi-label classification, ensemble methods | Docker, K8s | Flask |
+| AI Tools (Leukeleu) | ML utilities collection | PyTorch, Transformers | GitHub Actions | - |
 
 *Private repositories at AcademicTransfer and collaborations*
 
@@ -166,6 +108,7 @@ Leading AI strategy for academic recruitment platform serving **10M+ users**
 </p>
 
 ### Open Source Research
+
 | Repository | Description |
 |------------|-------------|
 | [EvalMORAAL](https://github.com/mohammadi-hadi/EvalMORAAL) | LLM moral evaluation with Chain-of-Thought & peer review |
