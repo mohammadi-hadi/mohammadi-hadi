@@ -87,10 +87,23 @@ I work where engineering rigor meets explainability research — shipping models
 
 ## Selected applied work
 
-- **[AT-CV-Priority-Sorter](https://github.com/mohammadi-hadi/AT-CV-Priority-Sorter)** — production ML pipeline ranking academic CVs by fit-to-vacancy at AcademicTransfer.
-- **[FBB Sustainability Analysis](https://github.com/Firmbackbone/fbb-sustainability-analysis-cli)** — environmental-impact analysis CLI on a Dutch firm panel.
+### AcademicTransfer — production AI/ML stack
 
-Most day-to-day production work lives in private repositories.
+Internal repositories at [@academictransfer](https://github.com/academictransfer) (private; access on request):
+
+| Repository | Focus | Stack |
+|---|---|---|
+| `at-ai` | Core AI / NLP services powering CV ranking and JD optimisation | Python |
+| `at-cv-sorter` | Production CV-priority-sorter pipeline | Python |
+| `at-cv-matcher` | CV-to-vacancy matching service | Python |
+| `at-concept-extractor` | NLP concept extraction from CVs and job descriptions | Python |
+| `at-dashboard` | Internal analytics + ML-monitoring dashboard | Python |
+| `at-crm` | CRM / ML integration for recruiter workflows | Python |
+| `at-elearning` | Recruiter training and onboarding platform | JavaScript |
+
+### Public
+
+- **[FBB Sustainability Analysis](https://github.com/Firmbackbone/fbb-sustainability-analysis-cli)** — environmental-impact analysis CLI on a Dutch firm panel ([@Firmbackbone](https://github.com/Firmbackbone)).
 
 ---
 
