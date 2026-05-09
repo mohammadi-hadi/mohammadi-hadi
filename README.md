@@ -1,7 +1,7 @@
 # Hadi Mohammadi
 
 **Senior AI & Data Science Expert** at [AcademicTransfer](https://www.academictransfer.com)
-**PhD candidate (Explainable NLP)** — [Utrecht University](https://www.uu.nl/staff/HMohammadi)
+**PhD in Explainable NLP** — [Utrecht University](https://www.uu.nl/staff/HMohammadi), 2026
 
 I build production NLP systems for academic recruitment and research how Large Language Models can be made interpretable, robust, and culturally aware. I work where engineering rigor meets explainability research — shipping models that deliver in production *and* expose **why** they make each decision.
 
@@ -16,7 +16,7 @@ I build production NLP systems for academic recruitment and research how Large L
 
 **Industry — AcademicTransfer.** I lead AI and data-science work across CV ranking, job-description optimisation, recruiter analytics, and end-to-end ML tooling for the Dutch academic-recruitment market.
 
-**Research — Utrecht University.** My doctoral thesis develops explainable NLP across the full LLM life cycle: from token-level SHAP analysis to cross-cultural moral-alignment evaluation of LLMs. Defense expected later in 2026.
+**Research — Utrecht University.** My doctoral thesis develops explainable NLP across the full LLM life cycle: from token-level SHAP analysis to cross-cultural moral-alignment evaluation of LLMs.
 
 ## Industry tech stack
 
@@ -92,7 +92,7 @@ Most day-to-day production work lives in private repositories.
 
 ### Let Me Explain! Explainable NLP for Understanding Large Language Models
 
-**Utrecht University** · defense expected later in 2026
+**Utrecht University**, 2026
 
 A six-chapter empirical thesis on explainability across the full LLM life cycle:
 a survey of XAI for NLP, a transparent BERT pipeline for online sexism detection,
