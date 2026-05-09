@@ -1,65 +1,22 @@
-<div align="center">
-
-<img src="assets/thesis-wrap-cover.png" alt="Let Me Explain! — wrap cover" width="900"/>
-
 # Hadi Mohammadi
 
 **Senior AI & Data Science Expert** at [AcademicTransfer](https://www.academictransfer.com)
-**PhD in Explainable NLP** — [Utrecht University](https://www.uu.nl/staff/HMohammadi), 2026
+**PhD candidate (Explainable NLP)** — [Utrecht University](https://www.uu.nl/staff/HMohammadi)
 
+I build production NLP systems for academic recruitment and research how Large Language Models can be made interpretable, robust, and culturally aware. I work where engineering rigor meets explainability research — shipping models that deliver in production *and* expose **why** they make each decision.
+
+[![Email](https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hadimh.93@gmail.com)
 [![Website](https://img.shields.io/badge/Website-mohammadi.cv-1F8FB6?style=flat-square&logo=googlechrome&logoColor=white)](https://mohammadi.cv)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammadi-hadi/)
-[![Google Scholar](https://img.shields.io/badge/Scholar-Profile-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=Pe-WKb4AAAAJ)
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0003--2538--9358-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-2538-9358)
 [![Utrecht University](https://img.shields.io/badge/Utrecht_University-Staff-FFCD00?style=flat-square)](https://www.uu.nl/staff/HMohammadi)
-
-</div>
 
 ---
 
-## About
+## What I do
 
-I bridge AI research and applied data science. At **AcademicTransfer** I lead production ML systems for academic recruitment — CV ranking, job-description optimisation, and recruiter-facing AI tooling. In parallel, I just defended my PhD at **Utrecht University** on making Large Language Models more interpretable, robust, and culturally aware.
+**Industry — AcademicTransfer.** I lead AI and data-science work across CV ranking, job-description optimisation, recruiter analytics, and end-to-end ML tooling for the Dutch academic-recruitment market.
 
-My strongest interests sit where measurable engineering meets explainability research: shipping models that work in production *and* expose **why** they make each decision.
-
-## Doctoral thesis
-
-<table>
-<tr>
-<td width="240" valign="top">
-  <img src="assets/thesis-front-cover.png" alt="Let Me Explain! — front cover" width="220"/>
-</td>
-<td valign="top">
-
-### Let Me Explain! Explainable NLP for Understanding Large Language Models
-
-**Defense:** 21 February 2026 · Utrecht University · ~290 pages
-
-A six-chapter dissertation on explainability across the full LLM life cycle:
-a survey of XAI for NLP, a transparent BERT pipeline for online sexism detection,
-SHAP-driven probing of AI-text-detector robustness, content-vs-demographic
-explanations for LLM annotators, cross-cultural moral-alignment evaluation
-of 26 LLMs against the World Values Survey and PEW, and the **EvalMORAAL**
-chain-of-thought-plus-LLM-as-judge framework benchmarking 20 models across
-64 countries.
-
-</td>
-</tr>
-</table>
-
-## Publications & code
-
-Each chapter has a peer-reviewed paper and a public companion repository released as `v1.0-thesis`, archived on Zenodo with a permanent DOI.
-
-| # | Paper | Venue | Read | Code |
-|---|---|---|:---:|:---:|
-| 1 | A Survey of Explainable NLP | Journal — under review | — | [![Repo](https://img.shields.io/badge/GitHub-xnlp--survey-181717?style=flat&logo=github)](https://github.com/mohammadi-hadi/xnlp-survey) |
-| 2 | A Transparent Pipeline for Identifying Sexism in Social Media | *Applied Sciences* (MDPI), 2024 | [![DOI](https://img.shields.io/badge/DOI-10.3390/app14198620-blue)](https://doi.org/10.3390/app14198620) | [![Repo](https://img.shields.io/badge/GitHub-Explainable--Sexism--Detection-181717?style=flat&logo=github)](https://github.com/mohammadi-hadi/Explainable-Sexism-Detection) |
-| 3 | Explainability-Based Token Replacement on LLM-Generated Text | arXiv preprint, 2025 | [![arXiv](https://img.shields.io/badge/arXiv-2506.04050-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2506.04050) | [![Repo](https://img.shields.io/badge/GitHub-Token--Replacement-181717?style=flat&logo=github)](https://github.com/mohammadi-hadi/Token-Replacement) |
-| 4 | Reliability of LLM Annotations under Demographic Bias and Model Explanation | GeBNLP @ ACL 2025 | [![DOI](https://img.shields.io/badge/DOI-10.18653/v1/2025.gebnlp--1.9-blue)](https://doi.org/10.18653/v1/2025.gebnlp-1.9) | [![Repo](https://img.shields.io/badge/GitHub-Explainable__Annotations__Reliability-181717?style=flat&logo=github)](https://github.com/mohammadi-hadi/Explainable_Annotations_Reliability) |
-| 5 | Exploring Cultural Variations in Moral Judgments with LLMs | *Computational Linguistics in the Netherlands J.* (in press) | [![arXiv](https://img.shields.io/badge/arXiv-2506.12433-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2506.12433) | [![Repo](https://img.shields.io/badge/GitHub-cultural--moral--judgments--llms-181717?style=flat&logo=github)](https://github.com/mohammadi-hadi/cultural-moral-judgments-llms) |
-| 6 | EvalMORAAL — Interpretable CoT and LLM-as-Judge for Moral Alignment | \*SEM @ ACL 2026 (in press) | [![arXiv](https://img.shields.io/badge/arXiv-2510.05942-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2510.05942) | [![Repo](https://img.shields.io/badge/GitHub-EvalMORAAL-181717?style=flat&logo=github)](https://github.com/mohammadi-hadi/EvalMORAAL) |
+**Research — Utrecht University.** My doctoral thesis develops explainable NLP across the full LLM life cycle: from token-level SHAP analysis to cross-cultural moral-alignment evaluation of LLMs. Defense expected later in 2026.
 
 ## Industry tech stack
 
@@ -119,8 +76,48 @@ Each chapter has a peer-reviewed paper and a public companion repository release
 
 ## Selected applied work
 
-- **[AT-CV-Priority-Sorter](https://github.com/mohammadi-hadi/AT-CV-Priority-Sorter)** — production ML pipeline ranking academic CVs by fit-to-vacancy at AcademicTransfer
-- **[FBB Sustainability Analysis](https://github.com/Firmbackbone/fbb-sustainability-analysis-cli)** — environmental-impact analysis CLI on a Dutch firm panel
+- **[AT-CV-Priority-Sorter](https://github.com/mohammadi-hadi/AT-CV-Priority-Sorter)** — production ML pipeline ranking academic CVs by fit-to-vacancy at AcademicTransfer.
+- **[FBB Sustainability Analysis](https://github.com/Firmbackbone/fbb-sustainability-analysis-cli)** — environmental-impact analysis CLI on a Dutch firm panel.
+
+Most day-to-day production work lives in private repositories.
+
+## Doctoral research
+
+<table>
+<tr>
+<td width="220" valign="top">
+  <img src="assets/thesis-front-cover.png" alt="Let Me Explain! — front cover" width="200"/>
+</td>
+<td valign="top">
+
+### Let Me Explain! Explainable NLP for Understanding Large Language Models
+
+**Utrecht University** · defense expected later in 2026
+
+A six-chapter empirical thesis on explainability across the full LLM life cycle:
+a survey of XAI for NLP, a transparent BERT pipeline for online sexism detection,
+SHAP-driven probing of AI-text-detector robustness, content-vs-demographic
+explanations for LLM annotators, cross-cultural moral-alignment evaluation
+of 26 LLMs against the World Values Survey and PEW, and the **EvalMORAAL**
+chain-of-thought-plus-LLM-as-judge framework benchmarking 20 LLMs across
+64 countries.
+
+</td>
+</tr>
+</table>
+
+### Publications & code
+
+Each chapter has a peer-reviewed paper and a public companion repository archived on Zenodo with a permanent DOI.
+
+| # | Paper | Venue | Read | Code |
+|---|---|---|:---:|:---:|
+| 1 | Explainability in Practice: A Survey of Explainable NLP Across Various Domains | under review | — | [![Repo](https://img.shields.io/badge/GitHub-xnlp--survey-181717?style=flat&logo=github)](https://github.com/mohammadi-hadi/xnlp-survey) |
+| 2 | A Transparent Pipeline for Online Sexism Detection Based on the Combination of Explainable AI, Feature Selection, and Ensemble Learning | *Applied Sciences* (MDPI), 2024 | [![DOI](https://img.shields.io/badge/DOI-10.3390/app14198620-blue)](https://doi.org/10.3390/app14198620) | [![Repo](https://img.shields.io/badge/GitHub-Explainable--Sexism--Detection-181717?style=flat&logo=github)](https://github.com/mohammadi-hadi/Explainable-Sexism-Detection) |
+| 3 | Explainability-Based Token Replacement on LLM-Generated Text | arXiv preprint, 2025 | [![arXiv](https://img.shields.io/badge/arXiv-2506.04050-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2506.04050) | [![Repo](https://img.shields.io/badge/GitHub-Token--Replacement-181717?style=flat&logo=github)](https://github.com/mohammadi-hadi/Token-Replacement) |
+| 4 | Assessing the Reliability of LLM Annotations in the Context of Demographic Bias and Model Explanation | GeBNLP @ ACL 2025 | [![DOI](https://img.shields.io/badge/DOI-10.18653/v1/2025.gebnlp--1.9-blue)](https://doi.org/10.18653/v1/2025.gebnlp-1.9) | [![Repo](https://img.shields.io/badge/GitHub-Explainable__Annotations__Reliability-181717?style=flat&logo=github)](https://github.com/mohammadi-hadi/Explainable_Annotations_Reliability) |
+| 5 | Exploring Cultural Variations in Moral Judgments with Large Language Models | *Computational Linguistics in the Netherlands J.* (in press) | [![arXiv](https://img.shields.io/badge/arXiv-2506.12433-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2506.12433) | [![Repo](https://img.shields.io/badge/GitHub-cultural--moral--judgments--llms-181717?style=flat&logo=github)](https://github.com/mohammadi-hadi/cultural-moral-judgments-llms) |
+| 6 | EvalMORAAL: Interpretable Chain-of-Thought and LLM-as-Judge Evaluation for Moral Alignment in Large Language Models | \*SEM @ ACL 2026 (in press) | [![arXiv](https://img.shields.io/badge/arXiv-2510.05942-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2510.05942) | [![Repo](https://img.shields.io/badge/GitHub-EvalMORAAL-181717?style=flat&logo=github)](https://github.com/mohammadi-hadi/EvalMORAAL) |
 
 ## At a glance
 
@@ -133,7 +130,7 @@ Each chapter has a peer-reviewed paper and a public companion repository release
 
 ## Get in touch
 
-Open to research collaborations, applied AI consulting in NL/EU, and conversations on explainability, LLM evaluation, and cultural alignment.
+Open to applied AI roles and consulting in NL/EU, plus research collaboration on explainability, LLM evaluation, and cultural alignment.
 
 [![Email](https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:hadimh.93@gmail.com)
 [![Website](https://img.shields.io/badge/Website-mohammadi.cv-1F8FB6?style=flat&logo=googlechrome&logoColor=white)](https://mohammadi.cv)
