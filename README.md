@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hadi Mohammadi
+# Hadi Mohammadi 
 
 **Senior AI & Data Science Expert** at [AcademicTransfer](https://www.academictransfer.com)
 **PhD in Explainable NLP** — [Utrecht University](https://www.uu.nl/staff/HMohammadi), 2026
