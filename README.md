@@ -9,6 +9,7 @@
 
 [![Email](https://img.shields.io/badge/Email-hadi.mohammadi%40outlook.com-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:hadi.mohammadi@outlook.com)
 [![Website](https://img.shields.io/badge/Website-mohammadi.cv-1F8FB6?style=flat-square&logo=googlechrome&logoColor=white)](https://mohammadi.cv)
+[![CV](https://img.shields.io/badge/CV-download_PDF-1E3A5F?style=flat-square&logo=readthedocs&logoColor=white)](https://mohammadi.cv/assets/docs/HadiMohammadiCV.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mohammadi--hadi-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammadi-hadi/)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--0860--9200-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-0860-9200)
 [![Utrecht University](https://img.shields.io/badge/Utrecht_University-Staff-FFCD00?style=flat-square)](https://www.uu.nl/staff/HMohammadi)
