@@ -12,6 +12,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mohammadi--hadi-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammadi-hadi/)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--0860--9200-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-0860-9200)
 [![Utrecht University](https://img.shields.io/badge/Utrecht_University-Staff-FFCD00?style=flat-square)](https://www.uu.nl/staff/HMohammadi)
+[![Google Scholar](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fmohammadi.cv%2Fassets%2Fdata%2Fscholar.json&query=%24.citations&prefix=citations%3A%20&label=Google%20Scholar&color=1E3A5F&style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=w4Jt-FAAAAAJ)
+[![h-index](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fmohammadi.cv%2Fassets%2Fdata%2Fscholar.json&query=%24.h_index&label=h--index&color=1E3A5F&style=flat-square)](https://scholar.google.com/citations?user=w4Jt-FAAAAAJ)
 
 </div>
 
@@ -103,6 +105,7 @@ Internal repositories at [@academictransfer](https://github.com/academictransfer
 
 ### Public
 
+- **[BehAv-PO](https://github.com/mohammadi-hadi/BehAv-PO)** — behavioral cluster-driven multi-agent preference optimization (SFT / DPO / GRPO) for sexism detection on EXIST 2024.
 - **[FBB Sustainability Analysis](https://github.com/Firmbackbone/fbb-sustainability-analysis-cli)** — environmental-impact analysis CLI on a Dutch firm panel ([@Firmbackbone](https://github.com/Firmbackbone)).
 
 ---
@@ -125,7 +128,7 @@ Each chapter has a peer-reviewed paper and a public companion repository archive
 
 | # | Paper | Venue | Read | Code |
 |---|---|---|:---:|:---:|
-| 1 | Explainability in Practice: A Survey of Explainable NLP Across Various Domains | under review | — | [![Repo](https://img.shields.io/badge/GitHub-xnlp--survey-181717?style=flat-square&logo=github)](https://github.com/mohammadi-hadi/xnlp-survey) |
+| 1 | Explainability in Practice: A Survey of Explainable NLP Across Various Domains | under review | [![arXiv](https://img.shields.io/badge/arXiv-2502.00837-b31b1b?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2502.00837) | [![Repo](https://img.shields.io/badge/GitHub-xnlp--survey-181717?style=flat-square&logo=github)](https://github.com/mohammadi-hadi/xnlp-survey) |
 | 2 | A Transparent Pipeline for Online Sexism Detection Based on the Combination of Explainable AI, Feature Selection, and Ensemble Learning | *Applied Sciences* (MDPI), 2024 | [![DOI](https://img.shields.io/badge/DOI-10.3390/app14198620-blue?style=flat-square)](https://doi.org/10.3390/app14198620) | [![Repo](https://img.shields.io/badge/GitHub-Explainable--Sexism--Detection-181717?style=flat-square&logo=github)](https://github.com/mohammadi-hadi/Explainable-Sexism-Detection) |
 | 3 | Explainability-Based Token Replacement on LLM-Generated Text | arXiv preprint, 2025 | [![arXiv](https://img.shields.io/badge/arXiv-2506.04050-b31b1b?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2506.04050) | [![Repo](https://img.shields.io/badge/GitHub-Token--Replacement-181717?style=flat-square&logo=github)](https://github.com/mohammadi-hadi/Token-Replacement) |
 | 4 | Assessing the Reliability of LLM Annotations in the Context of Demographic Bias and Model Explanation | GeBNLP @ ACL 2025 | [![DOI](https://img.shields.io/badge/DOI-10.18653/v1/2025.gebnlp--1.9-blue?style=flat-square)](https://doi.org/10.18653/v1/2025.gebnlp-1.9) | [![Repo](https://img.shields.io/badge/GitHub-Explainable__Annotations__Reliability-181717?style=flat-square&logo=github)](https://github.com/mohammadi-hadi/Explainable_Annotations_Reliability) |
