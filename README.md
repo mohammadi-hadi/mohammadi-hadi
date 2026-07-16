@@ -7,7 +7,7 @@
 
 *Production NLP for academic recruitment · Explainable LLM research*
 
-[![Email](https://img.shields.io/badge/Email-hadimh.93%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hadimh.93@gmail.com)
+[![Email](https://img.shields.io/badge/Email-hadi.mohammadi%40outlook.com-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:hadi.mohammadi@outlook.com)
 [![Website](https://img.shields.io/badge/Website-mohammadi.cv-1F8FB6?style=flat-square&logo=googlechrome&logoColor=white)](https://mohammadi.cv)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mohammadi--hadi-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammadi-hadi/)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--0860--9200-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-0860-9200)
@@ -141,7 +141,7 @@ Each chapter has a peer-reviewed paper and a public companion repository archive
 
 Open to applied AI roles and consulting in NL / EU, and to research collaboration on explainability, LLM evaluation, and cultural alignment.
 
-[![Email](https://img.shields.io/badge/Email-hadimh.93%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hadimh.93@gmail.com)
+[![Email](https://img.shields.io/badge/Email-hadi.mohammadi%40outlook.com-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:hadi.mohammadi@outlook.com)
 [![Website](https://img.shields.io/badge/Website-mohammadi.cv-1F8FB6?style=flat-square&logo=googlechrome&logoColor=white)](https://mohammadi.cv)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mohammadi--hadi-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammadi-hadi/)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--0860--9200-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-0860-9200)
