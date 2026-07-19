@@ -7,12 +7,12 @@
 
 *Production LLM & ranking systems · LLM evaluation & explainability research*
 
-[![Website](https://img.shields.io/badge/Website-mohammadi.cv-1E3A5F?style=flat-square)](https://mohammadi.cv)
-[![CV](https://img.shields.io/badge/CV-PDF-1E3A5F?style=flat-square)](https://mohammadi.cv/assets/docs/HadiMohammadiCV.pdf)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-profile-1E3A5F?style=flat-square)](https://scholar.google.com/citations?user=w4Jt-FAAAAAJ)
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0003--0860--9200-1E3A5F?style=flat-square)](https://orcid.org/0000-0003-0860-9200)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mohammadi--hadi-1E3A5F?style=flat-square)](https://www.linkedin.com/in/mohammadi-hadi/)
-[![Email](https://img.shields.io/badge/Email-hadi.mohammadi%40outlook.com-1E3A5F?style=flat-square)](mailto:hadi.mohammadi@outlook.com)
+[![Website](https://mohammadi.cv/assets/badges/website.svg)](https://mohammadi.cv)
+[![CV](https://mohammadi.cv/assets/badges/cv.svg)](https://mohammadi.cv/assets/docs/HadiMohammadiCV.pdf)
+[![Google Scholar](https://mohammadi.cv/assets/badges/scholar.svg)](https://scholar.google.com/citations?user=w4Jt-FAAAAAJ)
+[![ORCID](https://mohammadi.cv/assets/badges/orcid.svg)](https://orcid.org/0000-0003-0860-9200)
+[![LinkedIn](https://mohammadi.cv/assets/badges/linkedin.svg)](https://www.linkedin.com/in/mohammadi-hadi/)
+[![Email](https://mohammadi.cv/assets/badges/email.svg)](mailto:hadi.mohammadi@outlook.com)
 
 </div>
 
