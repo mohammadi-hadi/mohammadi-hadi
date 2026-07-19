@@ -93,6 +93,7 @@ Earlier: Senior Data Scientist at SnowaTec (2021–2023) — details on [mohamma
 
 - [modern-ai-engineering](https://github.com/mohammadi-hadi/modern-ai-engineering) — field notes on production LLM systems: structured outputs, RAG, agents and MCP, LoRA/DPO/GRPO, LLM-as-judge evaluation, and serving with vLLM.
 - [spark-search-ranking](https://github.com/mohammadi-hadi/spark-search-ranking) — counterfactual learning-to-rank for marketplace search logs in PySpark: position-bias estimation, IPS-weighted training, NDCG evaluation with a full test suite.
+- [dynamic-pricing-dashboard](https://github.com/mohammadi-hadi/dynamic-pricing-dashboard) — interactive dynamic-pricing simulator: demand learning with Thompson sampling, forward-looking customers, and advertising effects, running fully in the browser via WebAssembly ([live demo](https://mohammadi.cv/dynamic-pricing-dashboard/)).
 - [ml-summer-schools-europe](https://github.com/mohammadi-hadi/ml-summer-schools-europe) — practical guide to European ML summer schools: deadlines, funding, and application tips from four attended schools.
 - [ml-learning-paths](https://github.com/mohammadi-hadi/ml-learning-paths) — the best ML courses organized into five career paths (ML scientist, ML engineer, LLM engineer, data engineer, data scientist), each ordered and argued.
 - [ai-masters-netherlands](https://github.com/mohammadi-hadi/ai-masters-netherlands) — every AI and data science master's programme at Dutch research universities, with admissions, costs, and how to choose.
