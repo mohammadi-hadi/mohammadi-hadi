@@ -5,7 +5,7 @@
 **Senior AI & Data Science Expert** at [AcademicTransfer](https://www.academictransfer.com)
 **PhD in Explainable NLP** — [Utrecht University](https://www.uu.nl/staff/HMohammadi), 2026
 
-*Production NLP for academic recruitment · Explainable LLM research*
+*Production LLM & ranking systems · LLM evaluation & explainability research*
 
 [![Website](https://img.shields.io/badge/Website-mohammadi.cv-1E3A5F?style=flat-square)](https://mohammadi.cv)
 [![CV](https://img.shields.io/badge/CV-PDF-1E3A5F?style=flat-square)](https://mohammadi.cv/assets/docs/HadiMohammadiCV.pdf)
@@ -21,9 +21,9 @@
 
 ## What I do
 
-**Industry — AcademicTransfer.** I lead AI and data-science work across CV ranking, job-description optimisation, recruiter analytics, and end-to-end ML tooling for the Dutch academic-recruitment market.
+**Industry — AcademicTransfer.** I lead AI and data-science work across CV–vacancy matching and ranking, LLM content optimisation, recruiter analytics, and end-to-end ML tooling for the two-sided Dutch academic-jobs marketplace (22 research universities and university medical centres).
 
-**Research — Utrecht University.** My doctoral thesis develops explainable NLP across the full LLM life cycle, from token-level SHAP analysis to cross-cultural moral-alignment evaluation of LLMs.
+**Research — Utrecht University.** My doctoral thesis develops explainable NLP across the full LLM life cycle, from token-level SHAP analysis to cross-cultural moral-alignment evaluation of LLMs. Recent work centers on LLM evaluation: LLM-as-judge frameworks (EvalMORAAL) and multi-agent preference optimization (BehAv-PO).
 
 I work where engineering rigor meets explainability research — shipping models that deliver in production *and* expose why they make each decision.
 
@@ -64,7 +64,7 @@ Full publication list on [mohammadi.cv](https://mohammadi.cv/publications/) and 
 
 LLM and ML systems serving the Dutch academic job market, end to end: data pipelines, model serving, monitoring, and recruiter-facing tools.
 
-- Semantic CV-to-vacancy matching and LLM-assisted priority ranking of applicants
+- Semantic CV-to-vacancy matching and LLM-assisted priority ranking of applicants, evaluated with A/B tests, uplift analysis, and bandit simulations
 - LLM-based job-description optimisation and vacancy-text rewriting (OpenAI API)
 - Recruiter analytics and model-monitoring dashboards
 - CRM and workflow automation for recruitment teams
@@ -95,6 +95,7 @@ Earlier: Senior Data Scientist at SnowaTec (2021–2023) — details on [mohamma
 - [awesome-explainable-nlp](https://github.com/mohammadi-hadi/awesome-explainable-nlp) — curated list of 145 papers, tools, datasets, tutorials, and venues on explainability for NLP and LLMs, with weekly automated link checking. Contributions welcome.
 - [better-than-bing](https://github.com/mohammadi-hadi/better-than-bing) — dense retrieval on the BEIR FiQA benchmark with Pyserini, sentence-transformer embeddings, and a FAISS HNSW index.
 - [BehAv-PO](https://github.com/mohammadi-hadi/BehAv-PO) — behavioral cluster-driven multi-agent preference optimization (SFT / DPO / GRPO) for sexism detection on EXIST 2024.
+- [Recommendation-System-Using-Autoencoders](https://github.com/mohammadi-hadi/Recommendation-System-Using-Autoencoders) — movie recommendation with autoencoders on the MovieLens 1M dataset.
 - [Exist-2023](https://github.com/mohammadi-hadi/Exist-2023) — EXIST 2023 shared-task experiments, archived on Zenodo ([10.5281/zenodo.8144300](https://doi.org/10.5281/zenodo.8144300)).
 - [FBB Sustainability Analysis](https://github.com/Firmbackbone/fbb-sustainability-analysis-cli) — environmental-impact analysis CLI on a Dutch firm panel.
 
