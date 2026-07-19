@@ -7,14 +7,13 @@
 
 *Production NLP for academic recruitment · Explainable LLM research*
 
-[![Email](https://img.shields.io/badge/Email-hadi.mohammadi%40outlook.com-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:hadi.mohammadi@outlook.com)
-[![Website](https://img.shields.io/badge/Website-mohammadi.cv-1F8FB6?style=flat-square&logo=googlechrome&logoColor=white)](https://mohammadi.cv)
-[![CV](https://img.shields.io/badge/CV-download_PDF-1E3A5F?style=flat-square&logo=readthedocs&logoColor=white)](https://mohammadi.cv/assets/docs/HadiMohammadiCV.pdf)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mohammadi--hadi-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammadi-hadi/)
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0003--0860--9200-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-0860-9200)
-[![Utrecht University](https://img.shields.io/badge/Utrecht_University-Staff-FFCD00?style=flat-square)](https://www.uu.nl/staff/HMohammadi)
-[![Google Scholar](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fmohammadi.cv%2Fassets%2Fdata%2Fscholar.json&query=%24.citations&prefix=citations%3A%20&label=Google%20Scholar&color=1E3A5F&style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=w4Jt-FAAAAAJ)
+[![Website](https://img.shields.io/badge/Website-mohammadi.cv-1E3A5F?style=flat-square)](https://mohammadi.cv)
+[![CV](https://img.shields.io/badge/CV-PDF-1E3A5F?style=flat-square)](https://mohammadi.cv/assets/docs/HadiMohammadiCV.pdf)
+[![Google Scholar](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fmohammadi.cv%2Fassets%2Fdata%2Fscholar.json&query=%24.citations&prefix=citations%3A%20&label=Google%20Scholar&color=1E3A5F&style=flat-square)](https://scholar.google.com/citations?user=w4Jt-FAAAAAJ)
 [![h-index](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fmohammadi.cv%2Fassets%2Fdata%2Fscholar.json&query=%24.h_index&label=h--index&color=1E3A5F&style=flat-square)](https://scholar.google.com/citations?user=w4Jt-FAAAAAJ)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0003--0860--9200-1E3A5F?style=flat-square)](https://orcid.org/0000-0003-0860-9200)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mohammadi--hadi-1E3A5F?style=flat-square)](https://www.linkedin.com/in/mohammadi-hadi/)
+[![Email](https://img.shields.io/badge/Email-hadi.mohammadi%40outlook.com-1E3A5F?style=flat-square)](mailto:hadi.mohammadi@outlook.com)
 
 </div>
 
@@ -26,88 +25,7 @@
 
 **Research — Utrecht University.** My doctoral thesis develops explainable NLP across the full LLM life cycle, from token-level SHAP analysis to cross-cultural moral-alignment evaluation of LLMs.
 
-I work where engineering rigor meets explainability research — shipping models that deliver in production *and* expose **why** they make each decision.
-
----
-
-## Industry tech stack
-
-**Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
-
-**Machine learning & deep learning**
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-1D6D8E?style=flat-square)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-
-**LLMs, NLP & explainability**
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Transformers](https://img.shields.io/badge/Transformers-FF9D00?style=flat-square)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)
-![SHAP](https://img.shields.io/badge/SHAP-0F9D58?style=flat-square)
-![LIME](https://img.shields.io/badge/LIME-3DDC84?style=flat-square)
-![Captum](https://img.shields.io/badge/Captum-EE4C2C?style=flat-square)
-
-**Data engineering**
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Polars](https://img.shields.io/badge/Polars-CD792C?style=flat-square&logo=polars&logoColor=white)
-![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
-![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-**MLOps & DevOps**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-![Weights & Biases](https://img.shields.io/badge/W%26B-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-**Cloud & HPC**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![SURF Snellius](https://img.shields.io/badge/SURF%20Snellius-HPC-005F87?style=flat-square)
-
-**APIs, web & visualization**
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
-
----
-
-## Selected applied work
-
-### AcademicTransfer — production AI/ML stack
-
-Internal repositories at [@academictransfer](https://github.com/academictransfer) (private; access on request):
-
-| Repository | Focus | Stack |
-|---|---|---|
-| `at-ai` | Core AI / NLP services powering CV ranking and JD optimisation | Python |
-| `at-cv-sorter` | Production CV-priority-sorter pipeline | Python |
-| `at-cv-matcher` | CV-to-vacancy matching service | Python |
-| `at-concept-extractor` | NLP concept extraction from CVs and job descriptions | Python |
-| `at-dashboard` | Internal analytics + ML-monitoring dashboard | Python |
-| `at-crm` | CRM / ML integration for recruiter workflows | Python |
-| `at-elearning` | Recruiter training and onboarding platform | JavaScript |
-
-### Public
-
-- **[BehAv-PO](https://github.com/mohammadi-hadi/BehAv-PO)** — behavioral cluster-driven multi-agent preference optimization (SFT / DPO / GRPO) for sexism detection on EXIST 2024.
-- **[FBB Sustainability Analysis](https://github.com/Firmbackbone/fbb-sustainability-analysis-cli)** — environmental-impact analysis CLI on a Dutch firm panel ([@Firmbackbone](https://github.com/Firmbackbone)).
+I work where engineering rigor meets explainability research — shipping models that deliver in production *and* expose why they make each decision.
 
 ---
 
@@ -125,16 +43,77 @@ A six-chapter empirical thesis on explainability across the full LLM life cycle:
 
 ### Publications & code
 
-Each chapter has a peer-reviewed paper and a public companion repository archived on Zenodo with a permanent DOI.
+Each chapter has a paper and a public companion repository with citation metadata and a tagged release.
 
-| # | Paper | Venue | Read | Code |
-|---|---|---|:---:|:---:|
-| 1 | Explainability in Practice: A Survey of Explainable NLP Across Various Domains | under review | [![arXiv](https://img.shields.io/badge/arXiv-2502.00837-b31b1b?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2502.00837) | [![Repo](https://img.shields.io/badge/GitHub-xnlp--survey-181717?style=flat-square&logo=github)](https://github.com/mohammadi-hadi/xnlp-survey) |
-| 2 | A Transparent Pipeline for Online Sexism Detection Based on the Combination of Explainable AI, Feature Selection, and Ensemble Learning | *Applied Sciences* (MDPI), 2024 | [![DOI](https://img.shields.io/badge/DOI-10.3390/app14198620-blue?style=flat-square)](https://doi.org/10.3390/app14198620) | [![Repo](https://img.shields.io/badge/GitHub-Explainable--Sexism--Detection-181717?style=flat-square&logo=github)](https://github.com/mohammadi-hadi/Explainable-Sexism-Detection) |
-| 3 | Explainability-Based Token Replacement on LLM-Generated Text | arXiv preprint, 2025 | [![arXiv](https://img.shields.io/badge/arXiv-2506.04050-b31b1b?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2506.04050) | [![Repo](https://img.shields.io/badge/GitHub-Token--Replacement-181717?style=flat-square&logo=github)](https://github.com/mohammadi-hadi/Token-Replacement) |
-| 4 | Assessing the Reliability of LLM Annotations in the Context of Demographic Bias and Model Explanation | GeBNLP @ ACL 2025 | [![DOI](https://img.shields.io/badge/DOI-10.18653/v1/2025.gebnlp--1.9-blue?style=flat-square)](https://doi.org/10.18653/v1/2025.gebnlp-1.9) | [![Repo](https://img.shields.io/badge/GitHub-Explainable__Annotations__Reliability-181717?style=flat-square&logo=github)](https://github.com/mohammadi-hadi/Explainable_Annotations_Reliability) |
-| 5 | Exploring Cultural Variations in Moral Judgments with Large Language Models | *Computational Linguistics in the Netherlands J.* (in press) | [![arXiv](https://img.shields.io/badge/arXiv-2506.12433-b31b1b?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2506.12433) | [![Repo](https://img.shields.io/badge/GitHub-cultural--moral--judgments--llms-181717?style=flat-square&logo=github)](https://github.com/mohammadi-hadi/cultural-moral-judgments-llms) |
-| 6 | EvalMORAAL: Interpretable Chain-of-Thought and LLM-as-Judge Evaluation for Moral Alignment in Large Language Models | \*SEM @ ACL 2026 (in press) | [![arXiv](https://img.shields.io/badge/arXiv-2510.05942-b31b1b?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2510.05942) | [![Repo](https://img.shields.io/badge/GitHub-EvalMORAAL-181717?style=flat-square&logo=github)](https://github.com/mohammadi-hadi/EvalMORAAL) |
+| # | Paper | Venue | Links |
+|---|---|---|---|
+| 1 | Explainability in Practice: A Survey of Explainable NLP Across Various Domains | under review | [arXiv](https://arxiv.org/abs/2502.00837) · [code](https://github.com/mohammadi-hadi/xnlp-survey) |
+| 2 | A Transparent Pipeline for Online Sexism Detection Based on the Combination of Explainable AI, Feature Selection, and Ensemble Learning | *Applied Sciences*, 2024 | [doi](https://doi.org/10.3390/app14198620) · [code](https://github.com/mohammadi-hadi/Explainable-Sexism-Detection) |
+| 3 | Explainability-Based Token Replacement on LLM-Generated Text | arXiv, 2025 | [arXiv](https://arxiv.org/abs/2506.04050) · [code](https://github.com/mohammadi-hadi/Token-Replacement) |
+| 4 | Assessing the Reliability of LLM Annotations in the Context of Demographic Bias and Model Explanation | GeBNLP @ ACL 2025 | [doi](https://doi.org/10.18653/v1/2025.gebnlp-1.9) · [code](https://github.com/mohammadi-hadi/Explainable_Annotations_Reliability) |
+| 5 | Exploring Cultural Variations in Moral Judgments with Large Language Models | *CLIN Journal* 15, 2026 | [journal](https://clinjournal.org/clinj/article/view/238) · [arXiv](https://arxiv.org/abs/2506.12433) · [code](https://github.com/mohammadi-hadi/cultural-moral-judgments-llms) |
+| 6 | EvalMORAAL: Interpretable Chain-of-Thought and LLM-as-Judge Evaluation for Moral Alignment in Large Language Models | \*SEM 2026 | [paper](https://aclanthology.org/2026.starsem-conference.34/) · [arXiv](https://arxiv.org/abs/2510.05942) · [code](https://github.com/mohammadi-hadi/EvalMORAAL) |
+
+Full publication list on [mohammadi.cv](https://mohammadi.cv/publications/) and [Google Scholar](https://scholar.google.com/citations?user=w4Jt-FAAAAAJ).
+
+---
+
+## Industry projects
+
+### AcademicTransfer — production AI for academic recruitment (2024–present)
+
+LLM and ML systems serving the Dutch academic job market, end to end: data pipelines, model serving, monitoring, and recruiter-facing tools.
+
+- Semantic CV-to-vacancy matching and LLM-assisted priority ranking of applicants
+- LLM-based job-description optimisation and vacancy-text rewriting (OpenAI API)
+- Recruiter analytics and model-monitoring dashboards
+- CRM and workflow automation for recruitment teams
+
+Internal repositories at [@academictransfer](https://github.com/academictransfer) (private; access on request):
+
+| Repository | What it does |
+|---|---|
+| `at-ai` | Core AI/NLP services behind CV ranking and job-description optimisation |
+| `at-cv-matcher` | Semantic CV-to-vacancy matching service |
+| `at-cv-sorter` | Production CV priority-sorting pipeline |
+| `at-vacature-rewriter` | LLM-based vacancy-text rewriting for recruiters |
+| `at-concept-extractor` | Concept extraction from CVs and job descriptions |
+| `at-dashboard` | Internal analytics and ML-monitoring dashboard |
+| `at-crm` | CRM and ML integration for recruiter workflows |
+| `at-elearning` | Recruiter training and onboarding platform |
+
+### Bdood.bikes — bike-sharing operations intelligence (2019–2020)
+
+As Head of Data Science & BI I built the operations-intelligence layer for a city-scale bike-sharing fleet: [bicycle-transportation-intelligence](https://github.com/mohammadi-hadi/bicycle-transportation-intelligence) — a Streamlit dashboard on live Oracle fleet data, with GeoPandas geofencing and H3 spatial indexing plus folium maps to plan rebalancing and collection.
+
+Earlier: Senior Data Scientist at SnowaTec (2021–2023) — details on [mohammadi.cv](https://mohammadi.cv/experience/).
+
+---
+
+## Open source
+
+- [awesome-explainable-nlp](https://github.com/mohammadi-hadi/awesome-explainable-nlp) — curated list of 145 papers, tools, datasets, tutorials, and venues on explainability for NLP and LLMs, with weekly automated link checking. Contributions welcome.
+- [better-than-bing](https://github.com/mohammadi-hadi/better-than-bing) — dense retrieval on the BEIR FiQA benchmark with Pyserini, sentence-transformer embeddings, and a FAISS HNSW index.
+- [BehAv-PO](https://github.com/mohammadi-hadi/BehAv-PO) — behavioral cluster-driven multi-agent preference optimization (SFT / DPO / GRPO) for sexism detection on EXIST 2024.
+- [Exist-2023](https://github.com/mohammadi-hadi/Exist-2023) — EXIST 2023 shared-task experiments, archived on Zenodo ([10.5281/zenodo.8144300](https://doi.org/10.5281/zenodo.8144300)).
+- [FBB Sustainability Analysis](https://github.com/Firmbackbone/fbb-sustainability-analysis-cli) — environmental-impact analysis CLI on a Dutch firm panel.
+
+More — from fraud detection to retrieval and time-series forecasting — in the [repositories tab](https://github.com/mohammadi-hadi?tab=repositories).
+
+---
+
+## Toolbox
+
+| | |
+|---|---|
+| **Languages** | Python · R · SQL · Bash · LaTeX |
+| **ML / DL** | PyTorch · TensorFlow · scikit-learn · XGBoost · Keras |
+| **LLMs & NLP** | Hugging Face Transformers · OpenAI API · LangChain · spaCy |
+| **Explainability** | SHAP · LIME · Captum |
+| **Data engineering** | pandas · NumPy · Polars · DuckDB · Spark · PostgreSQL |
+| **MLOps** | Docker · Kubernetes · GitHub Actions · MLflow · Weights & Biases |
+| **Cloud & HPC** | AWS · Google Cloud · Azure · SURF Snellius |
+| **Serving & viz** | FastAPI · Flask · Streamlit · Plotly · Matplotlib |
 
 ---
 
@@ -142,13 +121,10 @@ Each chapter has a peer-reviewed paper and a public companion repository archive
 
 Open to applied AI roles and consulting in NL / EU, and to research collaboration on explainability, LLM evaluation, and cultural alignment.
 
-[![Email](https://img.shields.io/badge/Email-hadi.mohammadi%40outlook.com-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:hadi.mohammadi@outlook.com)
-[![Website](https://img.shields.io/badge/Website-mohammadi.cv-1F8FB6?style=flat-square&logo=googlechrome&logoColor=white)](https://mohammadi.cv)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mohammadi--hadi-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammadi-hadi/)
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0003--0860--9200-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-0860-9200)
+[mohammadi.cv](https://mohammadi.cv) · [LinkedIn](https://www.linkedin.com/in/mohammadi-hadi/) · [ORCID](https://orcid.org/0000-0003-0860-9200) · [hadi.mohammadi@outlook.com](mailto:hadi.mohammadi@outlook.com)
 
 ---
 
 <div align="center">
-<sub>Most industry work lives in private repositories at AcademicTransfer · Research code is open at the chapter repos linked above.</sub>
+<sub>Industry work lives in private AcademicTransfer repositories · research code is open at the chapter repos linked above.</sub>
 </div>
