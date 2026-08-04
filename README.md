@@ -91,6 +91,7 @@ Earlier: Senior Data Scientist at SnowaTec (2021–2023) — details on [mohamma
 
 ## Open source
 
+- [trajectory-judge](https://github.com/mohammadi-hadi/trajectory-judge) — how much an LLM judge misses when an agent reaches the right answer the wrong way: a synthetic tool-using environment with injected faults, five judge designs compared on detection, step localisation, calibration and cost, with every raw verdict committed so the tables rebuild offline.
 - [modern-ai-engineering](https://github.com/mohammadi-hadi/modern-ai-engineering) — field notes on production LLM systems: structured outputs, RAG, agents and MCP, LoRA/DPO/GRPO, LLM-as-judge evaluation, and serving with vLLM.
 - [spark-search-ranking](https://github.com/mohammadi-hadi/spark-search-ranking) — counterfactual learning-to-rank for marketplace search logs in PySpark: position-bias estimation, IPS-weighted training, NDCG evaluation with a full test suite.
 - [dynamic-pricing-dashboard](https://github.com/mohammadi-hadi/dynamic-pricing-dashboard) — interactive dynamic-pricing simulator: demand learning with Thompson sampling, forward-looking customers, and advertising effects, running fully in the browser via WebAssembly ([live demo](https://mohammadi.cv/dynamic-pricing-dashboard/)).
