@@ -22,7 +22,7 @@
 
 **Industry — AcademicTransfer.** I lead AI and data-science work across CV–vacancy matching and ranking, LLM content optimisation, recruiter analytics, and end-to-end ML tooling for the two-sided Dutch academic-jobs marketplace (22 research universities and university medical centres).
 
-**Research — Utrecht University.** My doctoral thesis develops explainable NLP across the full LLM life cycle, from token-level SHAP analysis to cross-cultural moral-alignment evaluation of LLMs. Recent work centers on LLM evaluation: LLM-as-judge frameworks (EvalMORAAL) and multi-agent preference optimization (BehAv-PO).
+**Research — Utrecht University.** My doctoral thesis develops explainable NLP across the full LLM life cycle, from token-level SHAP analysis to cross-cultural moral-alignment evaluation of LLMs. Recent work centers on LLM evaluation: LLM-as-judge frameworks (EvalMORAAL) and preference optimization under annotator disagreement (RA-DPO, MAP-PO).
 
 I work where engineering rigor meets explainability research — shipping models that deliver in production *and* expose why they make each decision.
 
@@ -101,7 +101,8 @@ Earlier: Senior Data Scientist at SnowaTec (2021–2023) — details on [mohamma
 - [ai-masters-netherlands](https://github.com/mohammadi-hadi/ai-masters-netherlands) — every AI and data science master's programme at Dutch research universities, with admissions, costs, and how to choose.
 - [awesome-explainable-nlp](https://github.com/mohammadi-hadi/awesome-explainable-nlp) — curated list of 145 papers, tools, datasets, tutorials, and venues on explainability for NLP and LLMs, with weekly automated link checking. Contributions welcome.
 - [better-than-bing](https://github.com/mohammadi-hadi/better-than-bing) — dense retrieval on the BEIR FiQA benchmark with Pyserini, sentence-transformer embeddings, and a FAISS HNSW index.
-- [BehAv-PO](https://github.com/mohammadi-hadi/BehAv-PO) — behavioral cluster-driven multi-agent preference optimization (SFT / DPO / GRPO) for sexism detection on EXIST 2024.
+- [RA-DPO](https://github.com/mohammadi-hadi/RA-DPO) — reliability-aware preference optimization and selective prediction for subjective labelling: annotator agreement and model confidence combine into one score that weights DPO training pairs and decides when to abstain, evaluated on EXIST 2023 and EDOS across three backbones with per-instance results committed.
+- [MAP-PO](https://github.com/mohammadi-hadi/MAP-PO) — behavioral cluster-driven multi-agent preference optimization (SFT / DPO / GRPO) for sexism detection on EXIST 2024.
 - [Recommendation-System-Using-Autoencoders](https://github.com/mohammadi-hadi/Recommendation-System-Using-Autoencoders) — movie recommendation with autoencoders on the MovieLens 1M dataset.
 - [Exist-2023](https://github.com/mohammadi-hadi/Exist-2023) — EXIST 2023 shared-task experiments, archived on Zenodo ([10.5281/zenodo.8144300](https://doi.org/10.5281/zenodo.8144300)).
 - [FBB Sustainability Analysis](https://github.com/Firmbackbone/fbb-sustainability-analysis-cli) — environmental-impact analysis CLI on a Dutch firm panel.
