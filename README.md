@@ -93,6 +93,7 @@ Earlier: Senior Data Scientist at SnowaTec (2021–2023) — details on [mohamma
 
 ### Evaluation
 
+- [EvalMORAAL](https://github.com/mohammadi-hadi/EvalMORAAL) — chain-of-thought plus LLM-as-judge evaluation of moral alignment, benchmarking 20 LLMs across 64 countries against the World Values Survey and PEW ([\*SEM 2026](https://aclanthology.org/2026.starsem-conference.34/)).
 - [trajectory-judge](https://github.com/mohammadi-hadi/trajectory-judge) — how much an LLM judge misses when an agent reaches the right answer the wrong way: a tool-using environment with injected faults, five judge designs compared on detection, step localisation, calibration and cost.
 - [judgekit](https://github.com/mohammadi-hadi/judgekit) — audit an LLM judge before you trust it: position, verbosity, self-preference and calibration probes with bootstrap intervals, where qwen2.5:14b picks whichever answer is shown first 77% of the time.
 - [judgepanel](https://github.com/mohammadi-hadi/judgepanel) — estimate how accurate your judges are without any gold labels: Dawid–Skene EM over the disagreement pattern alone, which exposes a flag-everything judge exactly (estimated specificity 0.000).
@@ -109,6 +110,8 @@ Earlier: Senior Data Scientist at SnowaTec (2021–2023) — details on [mohamma
 - [awesome-explainable-nlp](https://github.com/mohammadi-hadi/awesome-explainable-nlp) — 145 papers, tools, datasets, tutorials and venues on explainability for NLP and LLMs, with weekly automated link checking. Contributions welcome.
 
 Also maintained: [MAP-PO](https://github.com/mohammadi-hadi/MAP-PO) and [RA-DPO](https://github.com/mohammadi-hadi/RA-DPO) (preference optimization under annotator disagreement), [raterkit](https://github.com/mohammadi-hadi/raterkit) · [calikit](https://github.com/mohammadi-hadi/calikit) · [abeval](https://github.com/mohammadi-hadi/abeval) · [arenakit](https://github.com/mohammadi-hadi/arenakit) · [judgewatch](https://github.com/mohammadi-hadi/judgewatch) · [explainkit](https://github.com/mohammadi-hadi/explainkit) (evaluation and audit libraries), [ml-foundations](https://github.com/mohammadi-hadi/ml-foundations) · [modern-ai-engineering](https://github.com/mohammadi-hadi/modern-ai-engineering) (from-scratch ML and production LLM notes), and guides to [ML learning paths](https://github.com/mohammadi-hadi/ml-learning-paths), [European summer schools](https://github.com/mohammadi-hadi/ml-summer-schools-europe) and [Dutch AI master's programmes](https://github.com/mohammadi-hadi/ai-masters-netherlands).
+
+Elsewhere: [FBB Sustainability Analysis](https://github.com/Firmbackbone/fbb-sustainability-analysis-cli) — an environmental-impact analysis CLI on a Dutch firm panel, built for the Firmbackbone research infrastructure.
 
 Everything else is in the [repositories tab](https://github.com/mohammadi-hadi?tab=repositories).
 
