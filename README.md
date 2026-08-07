@@ -97,9 +97,9 @@ The evaluation libraries are one line of work rather than a collection. Each tak
 
 - [EvalMORAAL](https://github.com/mohammadi-hadi/EvalMORAAL) — chain-of-thought plus LLM-as-judge evaluation of moral alignment, benchmarking 20 LLMs across 64 countries against the World Values Survey and PEW ([\*SEM 2026](https://aclanthology.org/2026.starsem-conference.34/)).
 - [trajectory-judge](https://github.com/mohammadi-hadi/trajectory-judge) — how much an LLM judge misses when an agent reaches the right answer the wrong way: a tool-using environment with injected faults, five judge designs compared on detection, step localisation, calibration and cost.
-- [judgekit](https://github.com/mohammadi-hadi/judgekit) — audit an LLM judge before you trust it: position, verbosity, self-preference and calibration probes with bootstrap intervals, where qwen2.5:14b picks whichever answer is shown first 77% of the time.
+- [judgekit](https://github.com/mohammadi-hadi/judgekit) — bias probes for LLM judges, each with a bootstrap confidence interval: position, verbosity, self-preference and calibration, where qwen2.5:14b picks whichever answer is shown first 77% of the time.
 - [judgepanel](https://github.com/mohammadi-hadi/judgepanel) — estimate how accurate your judges are without any gold labels: Dawid–Skene EM over the disagreement pattern alone, which exposes a flag-everything judge exactly (estimated specificity 0.000).
-- [abkit](https://github.com/mohammadi-hadi/abkit) — audit an A/B-test readout before you ship the decision: sample-ratio mismatch, peeking, multiple testing and winner's-curse probes, applied to 4,873 real Upworthy tests where 16% fail the sample-ratio check.
+- [abkit](https://github.com/mohammadi-hadi/abkit) — sample-ratio mismatch, peeking, multiple testing and winner's-curse checks for experiment readouts, applied to 4,873 real Upworthy tests where 16% fail the sample-ratio check.
 
 ### Ranking and production
 
