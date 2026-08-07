@@ -91,6 +91,8 @@ Earlier: Senior Data Scientist at SnowaTec (2021–2023) — details on [mohamma
 
 ## Open source
 
+The evaluation libraries are one line of work rather than a collection. Each takes a single way evaluation goes wrong — a judge with a position bias, a label set nobody checked, a leaderboard read past its own confidence intervals, an experiment called too early — and makes it measurable, with the headline finding stated as a number instead of a claim.
+
 ### Evaluation
 
 - [EvalMORAAL](https://github.com/mohammadi-hadi/EvalMORAAL) — chain-of-thought plus LLM-as-judge evaluation of moral alignment, benchmarking 20 LLMs across 64 countries against the World Values Survey and PEW ([\*SEM 2026](https://aclanthology.org/2026.starsem-conference.34/)).
