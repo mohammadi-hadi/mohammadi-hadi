@@ -91,7 +91,7 @@ Earlier: Senior Data Scientist at SnowaTec (2021–2023) — details on [mohamma
 
 ## Open source
 
-The evaluation libraries are one line of work rather than a collection. Each takes a single way evaluation goes wrong — a judge with a position bias, a label set nobody checked, a leaderboard read past its own confidence intervals, an experiment called too early — and makes it measurable, with the headline finding stated as a number instead of a claim.
+The evaluation libraries are one line of work rather than a collection. Each takes a single way evaluation goes wrong — a judge with a position bias, a label set nobody checked, a leaderboard read past its own confidence intervals, an experiment called too early — and makes it measurable, with the headline finding stated as a number instead of a claim. [evalstack](https://github.com/mohammadi-hadi/evalstack) is the map of all eleven: what each measures, what it found, and the two chains that run end to end.
 
 ### Evaluation
 
@@ -111,7 +111,9 @@ The evaluation libraries are one line of work rather than a collection. Each tak
 
 - [awesome-explainable-nlp](https://github.com/mohammadi-hadi/awesome-explainable-nlp) — 145 papers, tools, datasets, tutorials and venues on explainability for NLP and LLMs, with weekly automated link checking. Contributions welcome.
 
-Also maintained: [MAP-PO](https://github.com/mohammadi-hadi/MAP-PO) and [RA-DPO](https://github.com/mohammadi-hadi/RA-DPO) (preference optimization under annotator disagreement), [raterkit](https://github.com/mohammadi-hadi/raterkit) · [calikit](https://github.com/mohammadi-hadi/calikit) · [abeval](https://github.com/mohammadi-hadi/abeval) · [arenakit](https://github.com/mohammadi-hadi/arenakit) · [judgewatch](https://github.com/mohammadi-hadi/judgewatch) · [explainkit](https://github.com/mohammadi-hadi/explainkit) (evaluation and audit libraries), [ml-foundations](https://github.com/mohammadi-hadi/ml-foundations) · [modern-ai-engineering](https://github.com/mohammadi-hadi/modern-ai-engineering) (from-scratch ML and production LLM notes), and guides to [ML learning paths](https://github.com/mohammadi-hadi/ml-learning-paths), [European summer schools](https://github.com/mohammadi-hadi/ml-summer-schools-europe) and [Dutch AI master's programmes](https://github.com/mohammadi-hadi/ai-masters-netherlands).
+The other six evaluation libraries — raterkit, retainkit, calikit, abeval, arenakit and judgewatch — are described in [evalstack](https://github.com/mohammadi-hadi/evalstack).
+
+Also maintained: [MAP-PO](https://github.com/mohammadi-hadi/MAP-PO) and [RA-DPO](https://github.com/mohammadi-hadi/RA-DPO) (preference optimization under annotator disagreement), [explainkit](https://github.com/mohammadi-hadi/explainkit) (explainability audits), [ml-foundations](https://github.com/mohammadi-hadi/ml-foundations) · [modern-ai-engineering](https://github.com/mohammadi-hadi/modern-ai-engineering) (from-scratch ML and production LLM notes), and guides to [ML learning paths](https://github.com/mohammadi-hadi/ml-learning-paths), [European summer schools](https://github.com/mohammadi-hadi/ml-summer-schools-europe) and [Dutch AI master's programmes](https://github.com/mohammadi-hadi/ai-masters-netherlands).
 
 Elsewhere: [FBB Sustainability Analysis](https://github.com/Firmbackbone/fbb-sustainability-analysis-cli) — an environmental-impact analysis CLI on a Dutch firm panel, built for the Firmbackbone research infrastructure.
 
