@@ -73,15 +73,16 @@ The full list of 20 publications is on [mohammadi.cv](https://mohammadi.cv/publi
 
 ## Open source
 
-The evaluation libraries are one line of work rather than a collection. Each takes a single way evaluation goes wrong — a judge with a position bias, a label set nobody checked, a leaderboard read past its own confidence intervals, an experiment called too early — and makes it measurable, with the headline finding stated as a number instead of a claim. [evalstack](https://github.com/mohammadi-hadi/evalstack) is the map of all eleven: what each measures, what it found, and the two chains that run end to end.
+The evaluation libraries are one line of work rather than a collection. Each takes a single way evaluation goes wrong — a judge with a position bias, a label set nobody checked, a leaderboard read past its own confidence intervals, an experiment called too early — and makes it measurable, with the headline finding stated as a number instead of a claim. [evalstack](https://github.com/mohammadi-hadi/evalstack) maps all eleven, including raterkit, retainkit, calikit, abeval, arenakit and judgewatch: what each measures, what it found, and the two chains that run end to end.
 
 ### Evaluation
 
-- [EvalMORAAL](https://github.com/mohammadi-hadi/EvalMORAAL) — chain-of-thought plus LLM-as-judge evaluation of moral alignment, benchmarking 20 LLMs across 64 countries against the World Values Survey and PEW ([\*SEM 2026](https://aclanthology.org/2026.starsem-conference.34/)).
-- [trajectory-judge](https://github.com/mohammadi-hadi/trajectory-judge) — how much an LLM judge misses when an agent reaches the right answer the wrong way: a tool-using environment with injected faults, five judge designs compared on detection, step localisation, calibration and cost.
+- [EvalMORAAL](https://github.com/mohammadi-hadi/EvalMORAAL) — chain-of-thought plus LLM-as-judge evaluation of moral alignment, benchmarking 20 LLMs across 64 countries against the World Values Survey and PEW.
+- [trajectory-judge](https://github.com/mohammadi-hadi/trajectory-judge) — how much an LLM judge misses when an agent reaches the right answer the wrong way: a tool-using environment with injected faults, five judges compared on detection, step localisation, fault typing, calibration and cost.
 - [judgekit](https://github.com/mohammadi-hadi/judgekit) — bias probes for LLM judges, each with a bootstrap confidence interval: position, verbosity, self-preference and calibration, where qwen2.5:14b picks whichever answer is shown first 77% of the time.
 - [judgepanel](https://github.com/mohammadi-hadi/judgepanel) — estimate how accurate your judges are without any gold labels: Dawid–Skene EM over the disagreement pattern alone, which exposes a flag-everything judge exactly (estimated specificity 0.000).
 - [abkit](https://github.com/mohammadi-hadi/abkit) — sample-ratio mismatch, peeking, multiple testing and winner's-curse checks for experiment readouts, applied to 4,873 real Upworthy tests where 15% fail the sample-ratio check.
+- [explainkit](https://github.com/mohammadi-hadi/explainkit) — explain the classifier, then test the explanation: word-level attributions scored for faithfulness, plausibility and cross-method agreement.
 
 ### Ranking and production
 
@@ -91,15 +92,7 @@ The evaluation libraries are one line of work rather than a collection. Each tak
 
 ### Curated
 
-- [awesome-explainable-nlp](https://github.com/mohammadi-hadi/awesome-explainable-nlp) — 145 papers, tools, datasets, tutorials and venues on explainability for NLP and LLMs, with weekly automated link checking. Contributions welcome.
-
-The other six evaluation libraries — raterkit, retainkit, calikit, abeval, arenakit and judgewatch — are described in [evalstack](https://github.com/mohammadi-hadi/evalstack).
-
-Also maintained: [MAP-PO](https://github.com/mohammadi-hadi/MAP-PO) and [RA-DPO](https://github.com/mohammadi-hadi/RA-DPO) (preference optimization under annotator disagreement), [explainkit](https://github.com/mohammadi-hadi/explainkit) (explainability audits), [ml-foundations](https://github.com/mohammadi-hadi/ml-foundations) · [modern-ai-engineering](https://github.com/mohammadi-hadi/modern-ai-engineering) (from-scratch ML and production LLM notes), and guides to [ML learning paths](https://github.com/mohammadi-hadi/ml-learning-paths), [European summer schools](https://github.com/mohammadi-hadi/ml-summer-schools-europe) and [Dutch AI master's programmes](https://github.com/mohammadi-hadi/ai-masters-netherlands).
-
-Elsewhere: [FBB Sustainability Analysis](https://github.com/Firmbackbone/fbb-sustainability-analysis-cli) — an environmental-impact analysis CLI on a Dutch firm panel, built for the Firmbackbone research infrastructure.
-
-Everything else is in the [repositories tab](https://github.com/mohammadi-hadi?tab=repositories).
+- [awesome-explainable-nlp](https://github.com/mohammadi-hadi/awesome-explainable-nlp) — 160 papers, tools, datasets, tutorials and venues on explainability for NLP and LLMs. Contributions welcome.
 
 ---
 
