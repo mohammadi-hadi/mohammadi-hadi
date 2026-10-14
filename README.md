@@ -45,12 +45,12 @@ The thesis asks why a language model gives the answer it does, and whether that 
 |---|---|---|
 | Chain-of-Thought Faithfulness Under GRPO and DPO Fine-Tuning | INLG 2026, long paper | [INLG](https://2026.inlgmeeting.org/accepted-papers.html) · [preprint](https://arxiv.org/abs/2512.22631) · [code](https://github.com/mohammadi-hadi/grpo_dpo_comparison) · [adapters](https://huggingface.co/hadimh93/qwen2.5-gsm8k-grpo-dpo-adapters) |
 | trajectory-judge: What Outcome-Only LLM Judges Miss on Agent Trajectories | *Who Verifies the Agents?* @ NeurIPS 2026 | [arXiv](https://arxiv.org/abs/2609.00038) · [code](https://github.com/mohammadi-hadi/trajectory-judge) |
-| Judging Without Gold: Gold-Free Estimation of LLM-Judge Accuracy and Its Failure Modes | *Can We Trust the Judge?* @ NeurIPS 2026 | [code](https://github.com/mohammadi-hadi/judgepanel) |
+| Judging Without Gold: Gold-Free Estimation of LLM-Judge Accuracy and Its Failure Modes | working paper, 2026 | [code](https://github.com/mohammadi-hadi/judgepanel) |
 | Reliability-Aware Sexism Detection: Combining DPO with Annotator Agreement and Token-Level Confidence Scoring | preprint, under review at EACL 2027 | [arXiv](https://arxiv.org/abs/2608.12330) · [code](https://github.com/mohammadi-hadi/RA-DPO) |
 | Learning Sexism Detection Using Multi-Agent Perspectivist Preference Optimization | preprint, 2026 | [arXiv](https://arxiv.org/abs/2608.04056) · [code](https://github.com/mohammadi-hadi/MAP-PO) |
 | Do Large Language Models Understand Morality Across Cultures? | LUHME @ ECAI 2025 | [ACL Anthology](https://aclanthology.org/2025.luhme-1.3/) |
 
-First author on all twelve papers above (joint first on GeBNLP) and sole author of both NeurIPS 2026 workshop papers. The full list of 20 publications is on [mohammadi.cv](https://mohammadi.cv/publications/). Recognition: Best Oral Presentation at the IOPS Winter Conference 2025 for the work on cultural moral alignment, and €40K+ in competitive grants across five projects.
+First author on all twelve papers above (joint first on GeBNLP); sole author of trajectory-judge and Judging Without Gold. The full list of 20 publications is on [mohammadi.cv](https://mohammadi.cv/publications/). Recognition: Best Oral Presentation at the IOPS Winter Conference 2025 for the work on cultural moral alignment, and €40K+ in competitive grants across five projects.
 
 ---
 
