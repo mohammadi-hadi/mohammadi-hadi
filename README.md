@@ -28,14 +28,14 @@
 
 Utrecht University · defended 9 September 2026 · [doi:10.33540/3756](https://doi.org/10.33540/3756) · [thesis page](https://mohammadi.cv/thesis/) · [read online](https://mohammadi.cv/thesis/flipbook/)
 
-The thesis asks why a language model gives the answer it does, and whether that explanation can be trusted. Its six studies cover three gaps: explanation methods that work on text, the reliability of LLM-produced annotations under demographic bias, and the cross-cultural moral alignment of LLMs. Promotors Dr. Robert A. Bagheri and Prof. dr. Daniel L. Oberski, co-promotor Dr. Anastasia Giachanou. Each chapter's paper has a public repository with citation metadata and a tagged release.
+The thesis asks why a language model gives the answer it does, and whether that explanation can be trusted. Its six studies cover three gaps: explanation methods that work on text; the reliability of LLM-produced annotations under demographic bias; and the cross-cultural moral alignment of LLMs. Promotors Dr. Robert A. Bagheri and Prof. Dr. Daniel L. Oberski, co-promotor Dr. Anastasia Giachanou. Each chapter's paper has a public repository with citation metadata and a tagged release.
 
 | Ch. | Paper | Venue | Links |
 |---|---|---|---|
-| 2 | Explainability in Practice: A Survey of Explainable NLP Across Various Domains | under review, *Journal of Information Science* | [arXiv](https://arxiv.org/abs/2502.00837) · [code](https://github.com/mohammadi-hadi/xnlp-survey) |
+| 2 | Explainability in Practice: A Survey of Explainable NLP Across Various Domains | preprint, under review at the *Journal of Information Science* | [arXiv](https://arxiv.org/abs/2502.00837) · [code](https://github.com/mohammadi-hadi/xnlp-survey) |
 | 3 | A Transparent Pipeline for Identifying Sexism in Social Media: Combining Explainability with Model Prediction | *Applied Sciences* 14(19), 2024 | [doi](https://doi.org/10.3390/app14198620) · [code](https://github.com/mohammadi-hadi/Explainable-Sexism-Detection) |
-| 4 | Explainability-Based Token Replacement on LLM-Generated Text | arXiv preprint, 2025 | [arXiv](https://arxiv.org/abs/2506.04050) · [code](https://github.com/mohammadi-hadi/Token-Replacement) |
-| 5 | Assessing the Reliability of LLMs Annotations in the Context of Demographic Bias and Model Explanation | GeBNLP @ ACL 2025 | [ACL Anthology](https://doi.org/10.18653/v1/2025.gebnlp-1.9) · [arXiv](https://arxiv.org/abs/2507.13138) · [page](https://mohammadi.cv/ACL2025/) · [code](https://github.com/mohammadi-hadi/Explainable_Annotations_Reliability) |
+| 4 | Explainability-Based Token Replacement on LLM-Generated Text | preprint, 2025 | [arXiv](https://arxiv.org/abs/2506.04050) · [code](https://github.com/mohammadi-hadi/Token-Replacement) |
+| 5 | Assessing the Reliability of LLMs Annotations in the Context of Demographic Bias and Model Explanation | GeBNLP @ ACL 2025 | [ACL Anthology](https://aclanthology.org/2025.gebnlp-1.9/) · [arXiv](https://arxiv.org/abs/2507.13138) · [page](https://mohammadi.cv/ACL2025/) · [code](https://github.com/mohammadi-hadi/Explainable_Annotations_Reliability) |
 | 6 | Exploring Cultural Variations in Moral Judgments with Large Language Models | *CLIN Journal* 15, 2026 | [journal](https://clinjournal.org/clinj/article/view/238) · [arXiv](https://arxiv.org/abs/2506.12433) · [code](https://github.com/mohammadi-hadi/cultural-moral-judgments-llms) |
 | 7 | EvalMORAAL: Interpretable Chain-of-Thought and LLM-as-Judge Evaluation for Moral Alignment in Large Language Models | \*SEM 2026 | [ACL Anthology](https://aclanthology.org/2026.starsem-conference.34/) · [arXiv](https://arxiv.org/abs/2510.05942) · [code](https://github.com/mohammadi-hadi/EvalMORAAL) |
 
@@ -44,13 +44,13 @@ The thesis asks why a language model gives the answer it does, and whether that 
 | Paper | Venue | Links |
 |---|---|---|
 | Chain-of-Thought Faithfulness Under GRPO and DPO Fine-Tuning | INLG 2026, long paper | [INLG](https://2026.inlgmeeting.org/accepted-papers.html) · [preprint](https://arxiv.org/abs/2512.22631) · [code](https://github.com/mohammadi-hadi/grpo_dpo_comparison) · [adapters](https://huggingface.co/hadimh93/qwen2.5-gsm8k-grpo-dpo-adapters) |
-| trajectory-judge: What Outcome-Only LLM Judges Miss on Agent Trajectories | NeurIPS 2026 workshop *Who Verifies the Agents?* | [arXiv](https://arxiv.org/abs/2609.00038) · [code](https://github.com/mohammadi-hadi/trajectory-judge) |
-| Judging Without Gold: Gold-Free Estimation of LLM-Judge Accuracy and Its Failure Modes | NeurIPS 2026 workshop *Can We Trust the Judge?* | [code](https://github.com/mohammadi-hadi/judgepanel) |
+| trajectory-judge: What Outcome-Only LLM Judges Miss on Agent Trajectories | *Who Verifies the Agents?* @ NeurIPS 2026 | [arXiv](https://arxiv.org/abs/2609.00038) · [code](https://github.com/mohammadi-hadi/trajectory-judge) |
+| Judging Without Gold: Gold-Free Estimation of LLM-Judge Accuracy and Its Failure Modes | *Can We Trust the Judge?* @ NeurIPS 2026 | [code](https://github.com/mohammadi-hadi/judgepanel) |
 | Reliability-Aware Sexism Detection: Combining DPO with Annotator Agreement and Token-Level Confidence Scoring | preprint, under review at EACL 2027 | [arXiv](https://arxiv.org/abs/2608.12330) · [code](https://github.com/mohammadi-hadi/RA-DPO) |
-| Learning Sexism Detection Using Multi-Agent Perspectivist Preference Optimization | preprint | [arXiv](https://arxiv.org/abs/2608.04056) · [code](https://github.com/mohammadi-hadi/MAP-PO) |
-| Do Large Language Models Understand Morality Across Cultures? | LUHME @ ECAI 2025 | [ACL Anthology](https://aclanthology.org/2025.luhme-1.3/) · [code](https://github.com/mohammadi-hadi/cultural-moral-judgments-llms) |
+| Learning Sexism Detection Using Multi-Agent Perspectivist Preference Optimization | preprint, 2026 | [arXiv](https://arxiv.org/abs/2608.04056) · [code](https://github.com/mohammadi-hadi/MAP-PO) |
+| Do Large Language Models Understand Morality Across Cultures? | LUHME @ ECAI 2025 | [ACL Anthology](https://aclanthology.org/2025.luhme-1.3/) |
 
-The full list of 20 publications is on [mohammadi.cv](https://mohammadi.cv/publications/). Recognition: Best Oral Presentation at the IOPS Winter Conference 2025 for the work on cultural moral alignment, and €40K+ in competitive grants across five projects.
+First author on all twelve papers above (joint first on GeBNLP) and sole author of both NeurIPS 2026 workshop papers. The full list of 20 publications is on [mohammadi.cv](https://mohammadi.cv/publications/). Recognition: Best Oral Presentation at the IOPS Winter Conference 2025 for the work on cultural moral alignment, and €40K+ in competitive grants across five projects.
 
 ---
 
