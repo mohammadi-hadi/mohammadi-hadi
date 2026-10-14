@@ -54,35 +54,20 @@ The full list of 20 publications is on [mohammadi.cv](https://mohammadi.cv/publi
 
 ---
 
-## Industry projects
+## Experience
 
-### AcademicTransfer — production AI for academic recruitment (2024–present)
+**AcademicTransfer**, Utrecht (2024–present)
 
-LLM and ML systems serving the Dutch academic job market, end to end: data pipelines, model serving, monitoring, and recruiter-facing tools.
+- Lead the company's 2026 WBSO R&D programme: an MCP-based academic query engine and an explainable CV matching engine with recruiters in the loop.
+- Technical lead of the AI layer and applicant-tracking system behind the recruitment platform of 22 Dutch research universities and university medical centres, which reads 10,000+ applications a month.
+- Cut time-to-hire by 20% with the CV Priority Sorter (active learning and LLMs), built with Utrecht University, TU Delft and Maastricht University.
+- Raised candidate–job matching accuracy by 17% and halved manual effort with generative pipelines for CV insight extraction and de-identification.
 
-- Semantic CV-to-vacancy matching and LLM-assisted priority ranking of applicants, evaluated with A/B tests, uplift analysis, and bandit simulations
-- LLM-based job-description optimisation and vacancy-text rewriting (OpenAI API)
-- Recruiter analytics and model-monitoring dashboards
-- CRM and workflow automation for recruitment teams
-
-Internal repositories at [@academictransfer](https://github.com/academictransfer) (private; access on request):
-
-| Repository | What it does |
-|---|---|
-| `at-ai` | Core AI/NLP services behind CV ranking and job-description optimisation |
-| `at-cv-matcher` | Semantic CV-to-vacancy matching service |
-| `at-cv-sorter` | Production CV priority-sorting pipeline |
-| `at-vacature-rewriter` | LLM-based vacancy-text rewriting for recruiters |
-| `at-concept-extractor` | Concept extraction from CVs and job descriptions |
-| `at-dashboard` | Internal analytics and ML-monitoring dashboard |
-| `at-crm` | CRM and ML integration for recruiter workflows |
-| `at-elearning` | Recruiter training and onboarding platform |
-
-### Bdood.bikes — bike-sharing operations intelligence (2019–2020)
-
-As Head of Data Science & BI I built the operations-intelligence layer for a city-scale bike-sharing fleet: [bicycle-transportation-intelligence](https://github.com/mohammadi-hadi/bicycle-transportation-intelligence) — a Streamlit dashboard on live Oracle fleet data, with GeoPandas geofencing and H3 spatial indexing plus folium maps to plan rebalancing and collection.
-
-Earlier: Senior Data Scientist at SnowaTec (2021–2023) — details on [mohammadi.cv](https://mohammadi.cv/experience/).
+| Years | Role | What I built |
+|---|---|---|
+| 2024–2025 | Researcher & NLP Developer, FIRMBACKBONE, Utrecht University School of Economics | [fbb-sustainability-analysis-cli](https://github.com/Firmbackbone/fbb-sustainability-analysis-cli): keyword extraction and sustainability scoring of company websites |
+| 2021–2023 | Senior Data Scientist, Customer Behaviour, SnowaTec (Entekhab Electronic), Tehran | Customer segmentation (+7.5% marketing impact); a modernised data warehouse and ETL (+16% data accessibility) |
+| 2019–2020 | Data Scientist, then Head of Data Science & BI, Bdood.bikes, Tehran | Dynamic pricing and usage prediction (+5% revenue); fleet intelligence (−8% maintenance costs), including a [Streamlit operations dashboard](https://github.com/mohammadi-hadi/bicycle-transportation-intelligence) with GeoPandas geofencing and H3 maps |
 
 ---
 
