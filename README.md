@@ -49,7 +49,7 @@ The thesis asks why a language model gives the answer it does, and whether that 
 | Reliability-Aware Sexism Detection: Combining DPO with Annotator Agreement and Token-Level Confidence Scoring | preprint, under review at EACL 2027 | [arXiv](https://arxiv.org/abs/2608.12330) · [code](https://github.com/mohammadi-hadi/RA-DPO) |
 | Learning Sexism Detection Using Multi-Agent Perspectivist Preference Optimization | preprint, 2026 | [arXiv](https://arxiv.org/abs/2608.04056) · [code](https://github.com/mohammadi-hadi/MAP-PO) |
 | Explainable NLP in the Era of Large Language Models: A Unified Taxonomy, Evaluation Frameworks, and Decision Guidance | preprint, 2026 | [Preprints.org](https://doi.org/10.20944/preprints202610.0435.v1) · [code](https://github.com/mohammadi-hadi/xnlp-llm-survey) |
-| Do Large Language Models Understand Morality Across Cultures? | LUHME @ ECAI 2025 | [ACL Anthology](https://aclanthology.org/2025.luhme-1.3/) |
+| Do Large Language Models Understand Morality Across Cultures? | LUHME @ ECAI 2025 | [ACL Anthology](https://aclanthology.org/2025.luhme-1.3/) · [arXiv (earlier version)](https://arxiv.org/abs/2412.00962) |
 
 First author on all thirteen papers above (joint first on GeBNLP); sole author of trajectory-judge and Judging Without Gold. The full list of 21 publications is on [mohammadi.cv](https://mohammadi.cv/publications/). Recognition: Best Oral Presentation at the IOPS Winter Conference 2025 for the work on cultural moral alignment, and €40K+ in competitive grants across five projects.
 
