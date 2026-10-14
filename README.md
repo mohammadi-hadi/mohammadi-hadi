@@ -18,7 +18,7 @@
 
 ---
 
-## Doctoral research
+## Research
 
 <div align="center">
   <img src="assets/thesis-wrap-cover.jpg" alt="Printed cover of the thesis Let Me Explain!: back, spine and front" width="820"/>
@@ -26,9 +26,9 @@
 
 ### *Let Me Explain! Explainable NLP for Understanding Large Language Models*
 
-Utrecht University, 2026
+Utrecht University · defended 9 September 2026 · [doi:10.33540/3756](https://doi.org/10.33540/3756) · [thesis page](https://mohammadi.cv/thesis/) · [read online](https://mohammadi.cv/thesis/flipbook/)
 
-A six-chapter empirical thesis on explainability across the full LLM life cycle: a survey of XAI for NLP, a transparent BERT pipeline for online sexism detection, SHAP-driven probing of AI-text-detector robustness, content-vs-demographic explanations for LLM annotators, cross-cultural moral-alignment evaluation of 26 LLMs against the World Values Survey and PEW, and the **EvalMORAAL** chain-of-thought-plus-LLM-as-judge framework benchmarking 20 LLMs across 64 countries.
+The thesis asks why a language model gives the answer it does, and whether that explanation can be trusted. Its six studies cover three gaps: explanation methods that work on text, the reliability of LLM-produced annotations under demographic bias, and the cross-cultural moral alignment of LLMs. Promotors Dr. Robert A. Bagheri and Prof. dr. Daniel L. Oberski, co-promotor Dr. Anastasia Giachanou. Each chapter's paper has a public repository with citation metadata and a tagged release.
 
 ### Publications & code
 
