@@ -122,12 +122,4 @@ The evaluation libraries are one line of work rather than a collection. Each tak
 
 ## Get in touch
 
-Open to applied AI roles and consulting in NL / EU, and to research collaboration on explainability, LLM evaluation, and cultural alignment.
-
-[mohammadi.cv](https://mohammadi.cv) · [LinkedIn](https://www.linkedin.com/in/mohammadi-hadi/) · [ORCID](https://orcid.org/0000-0003-0860-9200) · [hadi.mohammadi@outlook.com](mailto:hadi.mohammadi@outlook.com)
-
----
-
-<div align="center">
-<sub>Industry work lives in private AcademicTransfer repositories · research code is open at the chapter repos linked above.</sub>
-</div>
+Open to applied AI roles and consulting in NL / EU, and to research collaboration on explainability, LLM evaluation, and cultural alignment: [hadi.mohammadi@outlook.com](mailto:hadi.mohammadi@outlook.com).
