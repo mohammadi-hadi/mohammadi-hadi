@@ -31,7 +31,7 @@ I work where engineering rigor meets explainability research — shipping models
 ## Doctoral research
 
 <div align="center">
-  <img src="assets/thesis-wrap-cover.png" alt="Let Me Explain! — wrap cover" width="820"/>
+  <img src="assets/thesis-wrap-cover.jpg" alt="Printed cover of the thesis Let Me Explain!: back, spine and front" width="820"/>
 </div>
 
 ### *Let Me Explain! Explainable NLP for Understanding Large Language Models*
