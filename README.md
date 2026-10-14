@@ -18,16 +18,6 @@
 
 ---
 
-## What I do
-
-**Industry — AcademicTransfer.** I lead AI and data-science work across CV–vacancy matching and ranking, LLM content optimisation, recruiter analytics, and end-to-end ML tooling for the two-sided Dutch academic-jobs marketplace (22 research universities and university medical centres).
-
-**Research — Utrecht University.** My doctoral thesis develops explainable NLP across the full LLM life cycle, from token-level SHAP analysis to cross-cultural moral-alignment evaluation of LLMs. Recent work centers on LLM evaluation: LLM-as-judge frameworks (EvalMORAAL) and preference optimization under annotator disagreement (RA-DPO, MAP-PO).
-
-I work where engineering rigor meets explainability research — shipping models that deliver in production *and* expose why they make each decision.
-
----
-
 ## Doctoral research
 
 <div align="center">
