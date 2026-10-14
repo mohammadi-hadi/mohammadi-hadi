@@ -30,20 +30,16 @@ Utrecht University · defended 9 September 2026 · [doi:10.33540/3756](https://d
 
 The thesis asks why a language model gives the answer it does, and whether that explanation can be trusted. Its six studies cover three gaps: explanation methods that work on text, the reliability of LLM-produced annotations under demographic bias, and the cross-cultural moral alignment of LLMs. Promotors Dr. Robert A. Bagheri and Prof. dr. Daniel L. Oberski, co-promotor Dr. Anastasia Giachanou. Each chapter's paper has a public repository with citation metadata and a tagged release.
 
-### Publications & code
-
-Each chapter has a paper and a public companion repository with citation metadata and a tagged release.
-
-| # | Paper | Venue | Links |
+| Ch. | Paper | Venue | Links |
 |---|---|---|---|
-| 1 | Explainability in Practice: A Survey of Explainable NLP Across Various Domains | under review | [arXiv](https://arxiv.org/abs/2502.00837) · [code](https://github.com/mohammadi-hadi/xnlp-survey) |
-| 2 | A Transparent Pipeline for Identifying Sexism in Social Media: Combining Explainability with Model Prediction | *Applied Sciences*, 2024 | [doi](https://doi.org/10.3390/app14198620) · [code](https://github.com/mohammadi-hadi/Explainable-Sexism-Detection) |
-| 3 | Explainability-Based Token Replacement on LLM-Generated Text | arXiv, 2025 | [arXiv](https://arxiv.org/abs/2506.04050) · [code](https://github.com/mohammadi-hadi/Token-Replacement) |
-| 4 | Assessing the Reliability of LLM Annotations in the Context of Demographic Bias and Model Explanation | GeBNLP @ ACL 2025 | [doi](https://doi.org/10.18653/v1/2025.gebnlp-1.9) · [page](https://mohammadi.cv/ACL2025/) · [code](https://github.com/mohammadi-hadi/Explainable_Annotations_Reliability) |
-| 5 | Exploring Cultural Variations in Moral Judgments with Large Language Models | *CLIN Journal* 15, 2026 | [journal](https://clinjournal.org/clinj/article/view/238) · [arXiv](https://arxiv.org/abs/2506.12433) · [code](https://github.com/mohammadi-hadi/cultural-moral-judgments-llms) |
-| 6 | EvalMORAAL: Interpretable Chain-of-Thought and LLM-as-Judge Evaluation for Moral Alignment in Large Language Models | \*SEM 2026 | [paper](https://aclanthology.org/2026.starsem-conference.34/) · [arXiv](https://arxiv.org/abs/2510.05942) · [code](https://github.com/mohammadi-hadi/EvalMORAAL) |
+| 2 | Explainability in Practice: A Survey of Explainable NLP Across Various Domains | under review, *Journal of Information Science* | [arXiv](https://arxiv.org/abs/2502.00837) · [code](https://github.com/mohammadi-hadi/xnlp-survey) |
+| 3 | A Transparent Pipeline for Identifying Sexism in Social Media: Combining Explainability with Model Prediction | *Applied Sciences* 14(19), 2024 | [doi](https://doi.org/10.3390/app14198620) · [code](https://github.com/mohammadi-hadi/Explainable-Sexism-Detection) |
+| 4 | Explainability-Based Token Replacement on LLM-Generated Text | arXiv preprint, 2025 | [arXiv](https://arxiv.org/abs/2506.04050) · [code](https://github.com/mohammadi-hadi/Token-Replacement) |
+| 5 | Assessing the Reliability of LLMs Annotations in the Context of Demographic Bias and Model Explanation | GeBNLP @ ACL 2025 | [ACL Anthology](https://doi.org/10.18653/v1/2025.gebnlp-1.9) · [arXiv](https://arxiv.org/abs/2507.13138) · [page](https://mohammadi.cv/ACL2025/) · [code](https://github.com/mohammadi-hadi/Explainable_Annotations_Reliability) |
+| 6 | Exploring Cultural Variations in Moral Judgments with Large Language Models | *CLIN Journal* 15, 2026 | [journal](https://clinjournal.org/clinj/article/view/238) · [arXiv](https://arxiv.org/abs/2506.12433) · [code](https://github.com/mohammadi-hadi/cultural-moral-judgments-llms) |
+| 7 | EvalMORAAL: Interpretable Chain-of-Thought and LLM-as-Judge Evaluation for Moral Alignment in Large Language Models | \*SEM 2026 | [ACL Anthology](https://aclanthology.org/2026.starsem-conference.34/) · [arXiv](https://arxiv.org/abs/2510.05942) · [code](https://github.com/mohammadi-hadi/EvalMORAAL) |
 
-Full publication list on [mohammadi.cv](https://mohammadi.cv/publications/) and [Google Scholar](https://scholar.google.com/citations?user=w4Jt-FAAAAAJ).
+Full publication list on [mohammadi.cv](https://mohammadi.cv/publications/).
 
 ---
 
