@@ -110,13 +110,13 @@ The evaluation libraries are one line of work rather than a collection. Each tak
 | | |
 |---|---|
 | **Languages** | Python · R · SQL · Bash · LaTeX |
-| **ML / DL** | PyTorch · TensorFlow · scikit-learn · XGBoost · Keras |
-| **LLMs & NLP** | Hugging Face Transformers · OpenAI API · LangChain · spaCy |
+| **ML / DL** | PyTorch · TensorFlow · Keras · scikit-learn · XGBoost |
+| **LLMs & NLP** | Hugging Face Transformers · LoRA / PEFT · DPO / GRPO · LLM-as-judge · RAG, agents and MCP · OpenAI API · LangChain · spaCy |
 | **Explainability** | SHAP · LIME · Captum |
-| **Data engineering** | pandas · NumPy · Polars · DuckDB · Spark · PostgreSQL |
-| **MLOps** | Docker · Kubernetes · GitHub Actions · MLflow · Weights & Biases |
-| **Cloud & HPC** | AWS · Google Cloud · Azure · SURF Snellius |
-| **Serving & viz** | FastAPI · Flask · Streamlit · Plotly · Matplotlib |
+| **Experimentation** | A/B testing · uplift analysis · multi-armed bandits · Bayesian statistics |
+| **Data engineering** | pandas · NumPy · Polars · Spark · PostgreSQL |
+| **MLOps & compute** | Azure ML · MLflow · Docker · GitHub Actions · Weights & Biases · SURF Snellius |
+| **Serving & viz** | FastAPI · Flask · Streamlit · Plotly · Matplotlib · Power BI |
 
 ---
 
