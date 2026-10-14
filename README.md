@@ -39,7 +39,18 @@ The thesis asks why a language model gives the answer it does, and whether that 
 | 6 | Exploring Cultural Variations in Moral Judgments with Large Language Models | *CLIN Journal* 15, 2026 | [journal](https://clinjournal.org/clinj/article/view/238) · [arXiv](https://arxiv.org/abs/2506.12433) · [code](https://github.com/mohammadi-hadi/cultural-moral-judgments-llms) |
 | 7 | EvalMORAAL: Interpretable Chain-of-Thought and LLM-as-Judge Evaluation for Moral Alignment in Large Language Models | \*SEM 2026 | [ACL Anthology](https://aclanthology.org/2026.starsem-conference.34/) · [arXiv](https://arxiv.org/abs/2510.05942) · [code](https://github.com/mohammadi-hadi/EvalMORAAL) |
 
-Full publication list on [mohammadi.cv](https://mohammadi.cv/publications/).
+### Other recent papers
+
+| Paper | Venue | Links |
+|---|---|---|
+| Chain-of-Thought Faithfulness Under GRPO and DPO Fine-Tuning | INLG 2026, long paper | [INLG](https://2026.inlgmeeting.org/accepted-papers.html) · [preprint](https://arxiv.org/abs/2512.22631) · [code](https://github.com/mohammadi-hadi/grpo_dpo_comparison) · [adapters](https://huggingface.co/hadimh93/qwen2.5-gsm8k-grpo-dpo-adapters) |
+| trajectory-judge: What Outcome-Only LLM Judges Miss on Agent Trajectories | NeurIPS 2026 workshop *Who Verifies the Agents?* | [arXiv](https://arxiv.org/abs/2609.00038) · [code](https://github.com/mohammadi-hadi/trajectory-judge) |
+| Judging Without Gold: Gold-Free Estimation of LLM-Judge Accuracy and Its Failure Modes | NeurIPS 2026 workshop *Can We Trust the Judge?* | [code](https://github.com/mohammadi-hadi/judgepanel) |
+| Reliability-Aware Sexism Detection: Combining DPO with Annotator Agreement and Token-Level Confidence Scoring | preprint, under review at EACL 2027 | [arXiv](https://arxiv.org/abs/2608.12330) · [code](https://github.com/mohammadi-hadi/RA-DPO) |
+| Learning Sexism Detection Using Multi-Agent Perspectivist Preference Optimization | preprint | [arXiv](https://arxiv.org/abs/2608.04056) · [code](https://github.com/mohammadi-hadi/MAP-PO) |
+| Do Large Language Models Understand Morality Across Cultures? | LUHME @ ECAI 2025 | [ACL Anthology](https://aclanthology.org/2025.luhme-1.3/) · [code](https://github.com/mohammadi-hadi/cultural-moral-judgments-llms) |
+
+The full list of 20 publications is on [mohammadi.cv](https://mohammadi.cv/publications/). Recognition: Best Oral Presentation at the IOPS Winter Conference 2025 for the work on cultural moral alignment, and €40K+ in competitive grants across five projects.
 
 ---
 
