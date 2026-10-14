@@ -74,21 +74,21 @@ First author on all twelve papers above (joint first on GeBNLP) and sole author 
 
 ## Open source
 
-The evaluation libraries are one line of work rather than a collection. Each takes a single way evaluation goes wrong — a judge with a position bias, a label set nobody checked, a leaderboard read past its own confidence intervals, an experiment called too early — and makes it measurable, with the headline finding stated as a number instead of a claim. [evalstack](https://github.com/mohammadi-hadi/evalstack) maps all eleven, including raterkit, retainkit, calikit, abeval, arenakit and judgewatch: what each measures, what it found, and the two chains that run end to end.
+Each evaluation library takes one way evaluation goes wrong — a judge with a position bias, a label set nobody checked, a leaderboard read past its own confidence intervals, an experiment called too early — and turns it into a number with an interval around it. [evalstack](https://github.com/mohammadi-hadi/evalstack) maps all eleven, including raterkit, retainkit, calikit, abeval, arenakit and judgewatch: what each measures, what it found and the two chains that run end to end. Ten install from PyPI, and each has a Zenodo DOI.
 
 ### Evaluation
 
-- [EvalMORAAL](https://github.com/mohammadi-hadi/EvalMORAAL) — chain-of-thought plus LLM-as-judge evaluation of moral alignment, benchmarking 20 LLMs across 64 countries against the World Values Survey and PEW.
-- [trajectory-judge](https://github.com/mohammadi-hadi/trajectory-judge) — how much an LLM judge misses when an agent reaches the right answer the wrong way: a tool-using environment with injected faults, five judges compared on detection, step localisation, fault typing, calibration and cost.
+- [EvalMORAAL](https://github.com/mohammadi-hadi/EvalMORAAL) — 20 LLMs benchmarked against the World Values Survey (64 countries) and PEW, with LLM-as-judge peer review of each model's moral reasoning.
+- [trajectory-judge](https://github.com/mohammadi-hadi/trajectory-judge) — five LLM judges on a tool-using environment with injected faults: on the 175 faults that leave the final answer correct, a step-rubric judge catches 0.766 with no false alarms, while an outcome-only judge catches 0.451 and flags 0.330 of clean runs.
 - [judgekit](https://github.com/mohammadi-hadi/judgekit) — bias probes for LLM judges, each with a bootstrap confidence interval: position, verbosity, self-preference and calibration, where qwen2.5:14b picks whichever answer is shown first 77% of the time.
-- [judgepanel](https://github.com/mohammadi-hadi/judgepanel) — estimate how accurate your judges are without any gold labels: Dawid–Skene EM over the disagreement pattern alone, which exposes a flag-everything judge exactly (estimated specificity 0.000).
+- [judgepanel](https://github.com/mohammadi-hadi/judgepanel) — Dawid–Skene EM over a judge panel's disagreement pattern alone: on 400 agent trajectories it exposes a flag-everything judge exactly (estimated specificity 0.000) without a single gold label.
 - [abkit](https://github.com/mohammadi-hadi/abkit) — sample-ratio mismatch, peeking, multiple testing and winner's-curse checks for experiment readouts, applied to 4,873 real Upworthy tests where 15% fail the sample-ratio check.
 - [explainkit](https://github.com/mohammadi-hadi/explainkit) — explain the classifier, then test the explanation: word-level attributions scored for faithfulness, plausibility and cross-method agreement.
 
-### Ranking and production
+### Ranking and pricing
 
-- [spark-search-ranking](https://github.com/mohammadi-hadi/spark-search-ranking) — counterfactual learning-to-rank for marketplace search logs in PySpark: position-bias estimation, IPS-weighted training, NDCG evaluation with a full test suite.
-- [rankkit](https://github.com/mohammadi-hadi/rankkit) — ranking metrics with error bars, and click metrics that survive position bias: on the bundled example, counting raw clicks rejects a ranker that is genuinely better and correcting for position reverses the verdict.
+- [spark-search-ranking](https://github.com/mohammadi-hadi/spark-search-ranking) — counterfactual learning-to-rank for marketplace search logs in PySpark: position-bias estimation, IPS-weighted training, NDCG evaluation against known ground truth.
+- [rankkit](https://github.com/mohammadi-hadi/rankkit) — ranking metrics with error bars, and click metrics that survive position bias: on the bundled example, a ranker 0.036 better on true labels loses by 0.124 on raw clicks and wins by 0.019 once clicks are corrected for position, a verdict that flips at eta = 0.94.
 - [dynamic-pricing-dashboard](https://github.com/mohammadi-hadi/dynamic-pricing-dashboard) — dynamic-pricing simulator with Thompson sampling demand learning and forward-looking customers, running fully in the browser via WebAssembly ([live demo](https://mohammadi.cv/dynamic-pricing-dashboard/)).
 
 ### Curated
@@ -101,7 +101,7 @@ The evaluation libraries are one line of work rather than a collection. Each tak
 
 - **[Opening the Black Box](https://mohammadi.cv/opening-the-black-box/)** — a free, self-paced course in explainable AI for large language models: thirteen [labs](https://github.com/mohammadi-hadi/hands-on-xai-labs) that run in the browser on a free GPU.
 - **[Weekend Learning](https://mohammadi.cv/weekend-learning/)** — a newsletter every other Saturday on how LLM evaluation breaks, with every number recomputed from the data. Its [Persian sister](https://mohammadi.cv/weekend-learning-fa/) teaches the basics of machine learning and language models to beginners.
-- **Notes and guides** — [Modern AI Engineering](https://github.com/mohammadi-hadi/modern-ai-engineering) on building production LLM systems, [ml-foundations](https://github.com/mohammadi-hadi/ml-foundations) (machine learning from scratch in NumPy, every number checked by CI), and guides to [ML learning paths](https://github.com/mohammadi-hadi/ml-learning-paths), [European summer schools](https://github.com/mohammadi-hadi/ml-summer-schools-europe) and [Dutch AI master's programmes](https://github.com/mohammadi-hadi/ai-masters-netherlands).
+- **Notes and guides** — [Modern AI Engineering](https://github.com/mohammadi-hadi/modern-ai-engineering) on building production LLM systems, [ml-foundations](https://github.com/mohammadi-hadi/ml-foundations) (machine learning from scratch in NumPy, every implementation checked against an independent reference), and guides to [ML learning paths](https://github.com/mohammadi-hadi/ml-learning-paths), [European summer schools](https://github.com/mohammadi-hadi/ml-summer-schools-europe) and [Dutch AI master's programmes](https://github.com/mohammadi-hadi/ai-masters-netherlands).
 - **Supervision and service** — MSc thesis co-supervision in Applied Data Science at Utrecht University (nine students since 2024); co-founder of the [NLP@U Young Scholar Network](https://nlpysn.github.io/); Communications Chair of BNAIC/BeNeLearn 2024.
 
 ---
@@ -123,4 +123,4 @@ The evaluation libraries are one line of work rather than a collection. Each tak
 
 ## Get in touch
 
-Open to applied AI roles and consulting in NL / EU, and to research collaboration on explainability, LLM evaluation, and cultural alignment: [hadi.mohammadi@outlook.com](mailto:hadi.mohammadi@outlook.com).
+Open to applied AI roles and consulting in NL / EU, and to research collaboration on explainability, LLM evaluation and cultural alignment: [hadi.mohammadi@outlook.com](mailto:hadi.mohammadi@outlook.com).
