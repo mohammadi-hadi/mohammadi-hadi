@@ -2,10 +2,10 @@
 
 # Hadi Mohammadi, PhD
 
-**Senior AI & Data Science Expert** at [AcademicTransfer](https://www.academictransfer.com)<br>
-**PhD in Explainable NLP** — [Utrecht University](https://www.uu.nl/staff/HMohammadi), 2026
+**Senior AI & Data Science Expert – R&D Specialist** at [AcademicTransfer](https://www.academictransfer.com)<br>
+**PhD in Explainable NLP**, [Utrecht University](https://www.uu.nl/staff/HMohammadi), 2026
 
-*Production LLM & ranking systems · LLM evaluation & explainability research*
+*I build production LLM and ranking systems, and research explainable NLP and LLM evaluation.*
 
 [![Website](https://mohammadi.cv/assets/badges/website.svg)](https://mohammadi.cv)
 [![CV](https://mohammadi.cv/assets/badges/cv.svg)](https://mohammadi.cv/assets/docs/HadiMohammadiCV.pdf)
