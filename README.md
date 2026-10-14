@@ -96,6 +96,15 @@ The evaluation libraries are one line of work rather than a collection. Each tak
 
 ---
 
+## Teaching and writing
+
+- **[Opening the Black Box](https://mohammadi.cv/opening-the-black-box/)** — a free, self-paced course in explainable AI for large language models: thirteen [labs](https://github.com/mohammadi-hadi/hands-on-xai-labs) that run in the browser on a free GPU.
+- **[Weekend Learning](https://mohammadi.cv/weekend-learning/)** — a newsletter every other Saturday on how LLM evaluation breaks, with every number recomputed from the data. Its [Persian sister](https://mohammadi.cv/weekend-learning-fa/) teaches the basics of machine learning and language models to beginners.
+- **Notes and guides** — [Modern AI Engineering](https://github.com/mohammadi-hadi/modern-ai-engineering) on building production LLM systems, [ml-foundations](https://github.com/mohammadi-hadi/ml-foundations) (machine learning from scratch in NumPy, every number checked by CI), and guides to [ML learning paths](https://github.com/mohammadi-hadi/ml-learning-paths), [European summer schools](https://github.com/mohammadi-hadi/ml-summer-schools-europe) and [Dutch AI master's programmes](https://github.com/mohammadi-hadi/ai-masters-netherlands).
+- **Supervision and service** — MSc thesis co-supervision in Applied Data Science at Utrecht University (nine students since 2024); co-founder of the [NLP@U Young Scholar Network](https://nlpysn.github.io/); Communications Chair of BNAIC/BeNeLearn 2024.
+
+---
+
 ## Toolbox
 
 | | |
