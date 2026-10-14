@@ -56,12 +56,13 @@ First author on all twelve papers above (joint first on GeBNLP) and sole author 
 
 ## Experience
 
-**AcademicTransfer**, Utrecht (2024–present)
+**AcademicTransfer**, Utrecht (2024–present; promoted December 2025)
 
 - Lead the company's 2026 WBSO R&D programme: an MCP-based academic query engine and an explainable CV matching engine with recruiters in the loop.
 - Technical lead of the AI layer and applicant-tracking system behind the recruitment platform of 22 Dutch research universities and university medical centres, which reads 10,000+ applications a month.
 - Cut time-to-hire by 20% with the CV Priority Sorter (active learning and LLMs), built with Utrecht University, TU Delft and Maastricht University.
 - Raised candidate–job matching accuracy by 17% and halved manual effort with generative pipelines for CV insight extraction and de-identification.
+- Shipped transformer models on Azure ML with MLflow, Docker and CI/CD, and evaluated ranking with A/B tests, uplift analysis and bandit simulations.
 
 | Years | Role | What I built |
 |---|---|---|
@@ -113,7 +114,7 @@ The evaluation libraries are one line of work rather than a collection. Each tak
 | **ML / DL** | PyTorch · TensorFlow · Keras · scikit-learn · XGBoost |
 | **LLMs & NLP** | Hugging Face Transformers · LoRA / PEFT · DPO / GRPO · LLM-as-judge · RAG, agents and MCP · OpenAI API · LangChain · spaCy |
 | **Explainability** | SHAP · LIME · Captum |
-| **Experimentation** | A/B testing · uplift analysis · multi-armed bandits · Bayesian statistics |
+| **Statistics** | Bayesian statistics · reinforcement learning |
 | **Data engineering** | pandas · NumPy · Polars · Spark · PostgreSQL |
 | **MLOps & compute** | Azure ML · MLflow · Docker · GitHub Actions · Weights & Biases · SURF Snellius |
 | **Serving & viz** | FastAPI · Flask · Streamlit · Plotly · Matplotlib · Power BI |
